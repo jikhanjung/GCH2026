@@ -1,0 +1,135 @@
+{
+  "survey_no": "CN005",
+  "survey_year": 2022,
+  "gch_nm": "공주 쌍신동 백악기 기저현무암",
+  "survey_nm": "진광민, 김문기",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "충청권",
+  "geolgc_map_nm": "공주",
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "Ga001",
+      "des": "지질(암석_지판이동증거 암석)"
+    }
+  ],
+  "geolgc_age": "중생대 백악기(93.2±1.4 Ma)",
+  "rrstv_rck": "현무암",
+  "address": "공주시 쌍신동 산1-12",
+  "lat_dms": "36°29′28.3″N",
+  "lon_dms": "127°7′39.1″E",
+  "cclt_scl": "정밀발굴조사지역: 10,555㎡, 표본조사지역: 139,731㎡, 참관조사지역: 60,089㎡ (총면적: 210,375㎡)",
+  "rkfr_des": "충남 공주분지 내에 산점상으로 분포하는 화성암들은 초기 현무암질 용암에서 점진적으로 안산암과 유문암질 용암이 분출하는 전형적인 칼크-알칼리 계열의 분출 특성을 보인다. 그 중 쌍신동 백악기 기저현무암은 초기에 형성된 암석으로 공주분지 화성암의 분화특성을 연구하는데 중요한 지질자료이다. 이 현무암 노두는 금강의 지류인 반촌천 옆 도로를 따라 분포하며, 특히 도로 건설 중 발견된 노두이다. 대체로 식생과 풍화작용에 의하여 노두의 발달상태가 불량하지만 일부 신선한 노두를 관찰할 수 있다. 쌍신동 현무암은 암색 또는 암녹색을 띠며 괴상으로 발달한다. 현무암의 표면은 각진 형태의 절리구조가 발달하고 기공은 드문 편이다. 자세히 관찰할 경우 취석 반정이 관찰된다. 분포지역은 공주 IC와 인접하여 접근이 용이하며, 공산성과 공주박물관 등의 다양한 관광자원이 분포하고 있으며, 최근 공주 일대 백제문화유적지가 유네스코 세계문화유산으로 등재되어 이들과 연계한 교육장소가 될 수 있을 것으로 기대된다.",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "1",
+      "ordr": "1",
+      "material_nm": "이문원, 원종관, 김광호, 1992, 경기육괴내에서의 백악기 화산활동과 암석학적 연구. 지질학회지, 28, 314-333.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "2",
+      "material_nm": "정대교, 2002, 백악기 공주분지의 퇴적상 및 화산활동. 지질학회지, 38, 1-19.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "3",
+      "material_nm": "Doh, S. J., Kim, W., Suk, D., Park, Y. H., Cheong, D., 2002, Palaeomagnetic and rock-magnetic studies of Cretaceous rocks in the Gongju Basin, Korea: implication of clockwise rotation. Geophysical Journal International, 150, 737-752.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "4",
+      "material_nm": "이병주, 김복철, 2003, 백악기 공주분지의 지질 및 지질구조 특성 연구. 지질학회지, 39, 161-170.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "5",
+      "material_nm": "조형성, 강희철, 신승원, 정대교, 백인성, 임현수, 신동복, 김현주, 이찬희, 김종선, 2016, 충청권 지질유산의 분포와 가치평가. 지질학회지, 52, 639-664.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "6",
+      "material_nm": "Kim, W., Doh, S. J., Yu, Y., 2018, Reliable paleointensity determinations from Late Cretaceous volcanic rocks in Korea with constraint of thermochemical alteration. Physics of the Earth and Planetary Interiors, 279, 47-56.",
+      "pge": null
+    },
+    {
+      "group_gbn": "2",
+      "ordr": "1",
+      "material_nm": "자원개발연구소, 1976, 한국지질도(1:50000): 공주도폭",
+      "pge": null
+    },
+    {
+      "group_gbn": "3",
+      "ordr": "1",
+      "material_nm": "국토지리정보원, 2003, 한국지리지 충청권.",
+      "pge": null
+    },
+    {
+      "group_gbn": "4",
+      "ordr": "1",
+      "material_nm": "한국향토문화전자대전-공주분지(http://www.grandculture.net/)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "한국의 지질유산 정보구축 및 관리방안(이수재, 2008)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "2",
+      "material_nm": "전국 지질유산 분포 및 현황조사(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "3",
+      "material_nm": "한국의 지질유산(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "4",
+      "material_nm": "전국자연환경조사보고서(환경부)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "5",
+      "material_nm": "한국의 지질노두 150선(한국지질자원연구원, 2004)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "6",
+      "material_nm": "한국의 지질노두 160선(한국지질자원연구원, 2013)",
+      "pge": "128-129"
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "7",
+      "material_nm": "한국의 지질다양성(문화재청, 2011, 2012, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "8",
+      "material_nm": "지형·지질 문화재 정밀조사 보고서(문화재청, 2008, 2009, 2010)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "9",
+      "material_nm": "지질·광물 문화재 정밀조사 보고서(문화재청, 2002, 2005, 2006, 2007)",
+      "pge": null
+    }
+  ]
+}

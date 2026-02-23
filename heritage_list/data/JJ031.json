@@ -1,0 +1,53 @@
+{
+  "survey_no": "JJ031",
+  "survey_year": 2024,
+  "gch_nm": "제주 행원리 턴솔앞동굴",
+  "survey_nm": "김련, 최문복, 유지훈, 홍정표",
+  "psitn": "사단법인 한국동굴연구소",
+  "cttpc": null,
+  "area_nm": "제주",
+  "geolgc_map_nm": null,
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "La001",
+      "des": "지형(동굴_화산활동작용)"
+    }
+  ],
+  "geolgc_age": "신생대 제4기",
+  "rrstv_rck": "현무암(III)",
+  "address": "제주특별자치도 제주시 구좌읍 행원리",
+  "lat_dms": "33°31′33.5″N",
+  "lon_dms": "126°47′19.7″E",
+  "cclt_scl": "매장유산(동굴)유존지역: 1,267.25㎡, 참관조사지역: 7,005.23㎡ (총면적: 8,272.48㎡)",
+  "rkfr_des": "동굴 상부에 도로 분포(아스팔트포장도로)\n도로공사를 하던 중에 발견된 동굴",
+  "cave": {
+    "ent_size": "0.7m × 0.7m(원형, 맨홀)",
+    "length": "약 40m",
+    "type": "수평",
+    "ent_dir": "수직",
+    "direction": "남서(SW)",
+    "ungrd_water": "무",
+    "ent_water": "무",
+    "access": "구좌읍 덕행로 276의 숙박시설 동쪽에 위치한 아스팔트포장도로(덕행로) 하부에 위치(맨홀 하부)",
+    "unkn_topo_des": "빗줄구조",
+    "unkn_topo_rank": "라",
+    "prodt_des": "용암종유, 단백석으로 추정되는 동굴산호",
+    "prodt_rank": "마",
+    "bio_des": "남방쥐며느리 등 9종",
+    "bio_rank": "마",
+    "prs_protect": "유(맨홀)",
+    "protect": "미설치",
+    "prsv_rank": "양호",
+    "eval_des": "동굴에 대한 안정성 검토 필요\n동굴 주변 지역에 대한 상하수도, 가스, 전기 등의 관로 설치 시 사전에 동굴 관련 전문가의 검토를 통해 공사가 진행",
+    "eval_rank": "라"
+  },
+  "references": [
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "제주특별자치도 비지정 천연동굴 실태조사 용역 보고서(3차년, 제주특별자치도 세계유산본부, 2023)",
+      "pge": null
+    }
+  ]
+}

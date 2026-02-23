@@ -1,0 +1,63 @@
+{
+  "survey_no": "GB034",
+  "survey_year": 2023,
+  "gch_nm": "안동 광덕리 초염기성암",
+  "survey_nm": "고경태, 이태호",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "경북권",
+  "geolgc_map_nm": "안동",
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "Gc003",
+      "des": "지질(구조_변성작용)"
+    }
+  ],
+  "geolgc_age": "중생대 백악기",
+  "rrstv_rck": "사문암",
+  "address": "경북 안동시 풍천면 광덕리 산 103",
+  "lat_dms": "36°31′23.74″N",
+  "lon_dms": "128°29′34.99″E",
+  "cclt_scl": "정밀발굴조사지역: 175,956m2, 표본조사지역: 554,285m2, 참관조사지역: 2,446,748m2 (총면적: 362,648m2)",
+  "rkfr_des": "본 지질유산은 경상북도 안동군 풍천면 광덕리 에코올리빈(구 신립광산) 사문석 광산에 위치\n사문암 원암으로 인지되는 감람암과 감람석 반려암과 휘석암 등의 다양한 초염기성암이 산출\n초염기성암체에서 사문암화가 심한 부분을 대상으로 두 곳(신립 및 풍산광상)에서 사문암 채광\n우리나라 동측에 트라이아스기에서 백악기 동안 형성된 고기 태평양판의 섭입환경과 관련되어 중요한 지질학적 의미를 가짐",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "1",
+      "ordr": "1",
+      "material_nm": "송석환, 2019, 안동 초염기성암 복합체 내 페리도타이트의 암석지화학과 석면 산출 특성. 광물과 암석, 32(1), 15-39.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "2",
+      "material_nm": "정기영, 이승렬, 권석기, 2012, 안동 초염기성암 복합체의 함금운모 사방휘석암. 광물과 암석, 25(4), 249-261.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "3",
+      "material_nm": "Jeong, G. Y., Cheong, C. S., Yi, K., Kim, J., Kim, N., Kwon, S. K., Geng, J.-Z., Li, H. K., 2014, Mineral ages and zircon Hf isotopic composition of the Andong ultramafic complex: implications for the evolution of Mesozoic subduction system and subcontinental lithospheric mantle beneath SE Korea. Geological Magazine, 151(5), 765-776.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "4",
+      "material_nm": "Cheong, C. S., Kim, N., Kim, J., Cho, M., 2015, The Silurian-Devonian magmatism recorded in detrital zircons from the Andong area, northeastern Yeongnam Massif, Korea. Geosciences Journal, 19, 393-405.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "5",
+      "material_nm": "Kim, N. K., Choi, S. H., 2016, Petrogenesis of late Triassic ultramafic rocks from the Andong ultramafic complex, South Korea. Lithos, 264, 28-40.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "6",
+      "material_nm": "Whattam, S. A., Cho, M., Smith, I. E., 2011, Magmatic peridotites and pyroxenites, Andong Ultramafic Complex, Korea: Geochemical evidence for supra-subduction zone formation and extensive melt–rock interaction. Lithos, 127(3-4), 599-618.",
+      "pge": null
+    }
+  ]
+}

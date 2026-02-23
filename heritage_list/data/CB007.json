@@ -1,0 +1,53 @@
+{
+  "survey_no": "CB007",
+  "survey_year": 2024,
+  "gch_nm": "제천 성내리 성내리동굴",
+  "survey_nm": "김련, 이종희, 최문록",
+  "psitn": "사단법인 한국동굴연구소",
+  "cttpc": null,
+  "area_nm": "충북",
+  "geolgc_map_nm": null,
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "La002",
+      "des": "지형(동굴_용식(석회암)작용)"
+    }
+  ],
+  "geolgc_age": "고생대 오르도비스기",
+  "rrstv_rck": "조선누층군 영월층군 문곡층",
+  "address": "충청북도 제천시 금성면 성내리",
+  "lat_dms": "37°02′14.7″N",
+  "lon_dms": "126°10′36.7″E",
+  "cclt_scl": "매장유산(동굴)유존지역: 643.11㎡, 참관조사지역: 5,547.56㎡ (총면적: 6,190.67㎡)",
+  "rkfr_des": "연금리조트-금성 도로건설공사 과정 중 발견(현재 공사 진행중)\n동굴입구 주변에 대형의 습곡 관찰",
+  "cave": {
+    "ent_size": "3.0m × 2.5m(타원형)",
+    "length": "약 20m",
+    "type": "경사",
+    "ent_dir": "북동(NE)",
+    "direction": "북동(NE)",
+    "ungrd_water": "유",
+    "ent_water": "무",
+    "access": "금성면 성내리 111-12의 절개지 하부에 위치",
+    "unkn_topo_des": null,
+    "unkn_topo_rank": null,
+    "prodt_des": "종유관, 종유석, 석순, 석주, 베이컨시트, 유석, 휴석(소), 동굴산호",
+    "prodt_rank": "라",
+    "bio_des": null,
+    "bio_rank": null,
+    "prs_protect": "무",
+    "protect": "설치(공사기간 중 설치 예정)",
+    "prsv_rank": "매우 양호",
+    "eval_des": "층리방향의 수직적으로 발달한 절리 또는 단층에 의해서 동굴이 확장된 것으로 판단\n동굴 내부는 불연속면의 발달로 인해 낙석발생의 위험성이 매우 높음\n지질학적 평가에 의한 등급\n생물학적 평가 실시 필요",
+    "eval_rank": "라"
+  },
+  "references": [
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "연금리조트-금성 도로건설공사 중 발견된 성내리동굴의 가치평가 보고서(충청북도, 2024)",
+      "pge": null
+    }
+  ]
+}

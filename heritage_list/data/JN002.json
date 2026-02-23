@@ -1,0 +1,81 @@
+{
+  "survey_no": "JN002",
+  "survey_year": 2022,
+  "gch_nm": "광양 도사리 섬진강 하천지형",
+  "survey_nm": "박정영, 이병춘",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "전라권",
+  "geolgc_map_nm": "하동",
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "Lb003",
+      "des": "지형(자연지형_침식/퇴적작용)"
+    }
+  ],
+  "geolgc_age": "신생대 제4기 홀로세",
+  "rrstv_rck": "모래",
+  "address": "전라남도 광양시 다압면 도사리 1455",
+  "lat_dms": "35°05′11.82″N",
+  "lon_dms": "127°42′39.65″E",
+  "cclt_scl": "유존지역: 251,996㎡",
+  "rkfr_des": "사행하천의 특징을 잘 보여주며 모래톱 및 습지 등의 하천지형이 관찰됨\n하천의 곡률대(곡류 진폭)가 비교적 작은 편이나 곡류부 안쪽에 하천퇴적지형이 잘 발달함\n비교적 넓은 부분이 식생에 의해 덮여있음",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "1",
+      "ordr": "1",
+      "material_nm": "허민, 민재웅, 장성재, 고영구, 김주용, 2011, 전남 동부연안권 및 섬진강유역권의 지질관광 (Geotourism) 가능성 고찰 : 생태환경을 중심으로. 고생물학회지, 27, 261-276.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "2",
+      "material_nm": "허민, 민재웅, 고영구, 김주용, 장성재, 2010, 섬진강 유역권 생태환경 조사분석에 관한 연구. 고생물학회지, 26, 71-86.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "3",
+      "material_nm": "유환수, 조석희, 고영구, 2000, 섬진강 유역의 하성 퇴적층에 관한 연구. 지구과학회지, 21, 174-187.",
+      "pge": null
+    },
+    {
+      "group_gbn": "3",
+      "ordr": "1",
+      "material_nm": "박상수, 2014, 섬진강 육백리. 아시아문화커뮤니티, 280p.",
+      "pge": null
+    },
+    {
+      "group_gbn": "3",
+      "ordr": "2",
+      "material_nm": "신정일, 2007, 섬진강 따라 짚어가는 우리 역사. 판미동, 219p.",
+      "pge": null
+    },
+    {
+      "group_gbn": "4",
+      "ordr": "1",
+      "material_nm": "국토지리정보원, 한국지명유래집 전라편",
+      "pge": null
+    },
+    {
+      "group_gbn": "4",
+      "ordr": "2",
+      "material_nm": "대한민국 구석구석 홈페이지(http://korean.visitkorea.or.kr)",
+      "pge": null
+    },
+    {
+      "group_gbn": "4",
+      "ordr": "3",
+      "material_nm": "광양시 문화관광(http://www.gwangyang.go.kr/tour_culture/)",
+      "pge": null
+    },
+    {
+      "group_gbn": "4",
+      "ordr": "4",
+      "material_nm": "구례군 문화관광(http://tour.gurye.go.kr)",
+      "pge": null
+    }
+  ]
+}

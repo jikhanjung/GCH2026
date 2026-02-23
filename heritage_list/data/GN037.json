@@ -1,0 +1,81 @@
+{
+  "survey_no": "GN037",
+  "survey_year": 2024,
+  "gch_nm": "산청 외송리 심거나루 쥐라기 섬장암",
+  "survey_nm": "권창우, 이태호",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "경남권",
+  "geolgc_map_nm": "산청",
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "Gc004",
+      "des": "지질(구조_화성작용)"
+    }
+  ],
+  "geolgc_age": "중생대 쥐라기",
+  "rrstv_rck": "섬장암",
+  "address": "경남 산청군 신안면 외송리 1123-1",
+  "lat_dms": "35°21′11.23″N",
+  "lon_dms": "127°55′33.04″E",
+  "cclt_scl": "총 면적 약 110,442㎡, 정밀발굴조사지역 약 110,442㎡",
+  "rkfr_des": "본 지질유산은 산청군 단성면 경호강캠핑장 주변 하천(남강) 그리고 야산에 산출\n주 암석은 중립질 섬장암으로, 장석과 각섬석으로 구성\n부분적으로 엽리가 관찰\n국내 중생대 섬장암을 잘 관찰할 수 있는 곳",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "한국의 지질유산 정보구축 및 관리방안(이수재, 2008)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "2",
+      "material_nm": "전국 지질유산 분포 및 현황조사(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "3",
+      "material_nm": "한국의 지질유산(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "4",
+      "material_nm": "전국자연환경조사보고서(환경부)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "5",
+      "material_nm": "한국의 지질노두 150선(한국지질자원연구원, 2004)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "6",
+      "material_nm": "한국의 지질노두 160선(한국지질자원연구원, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "7",
+      "material_nm": "한국의 지질다양성(문화재청, 2011, 2012, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "8",
+      "material_nm": "지형·지질 문화재 정밀조사 보고서(문화재청, 2008, 2009, 2010)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "9",
+      "material_nm": "지질·광물 문화재 정밀조사 보고서(문화재청, 2002, 2005, 2006, 2007)",
+      "pge": null
+    }
+  ]
+}

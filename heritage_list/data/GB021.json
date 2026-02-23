@@ -1,0 +1,51 @@
+{
+  "survey_no": "GB021",
+  "survey_year": 2023,
+  "gch_nm": "영덕 고곡리 양산단층대의 단층핵",
+  "survey_nm": "고경태, 김현철, 송교영",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "경북권",
+  "geolgc_map_nm": "영해",
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "Gc002",
+      "des": "지질(구조_변형작용)"
+    }
+  ],
+  "geolgc_age": "중생대 백악기 ~ 신생대",
+  "rrstv_rck": "자색 이암, 사암 및 역암",
+  "address": "경상북도 영덕군 축산면 고곡리 산 266",
+  "lat_dms": "36°29′31.69″N",
+  "lon_dms": "129°24′35.12″E",
+  "cclt_scl": "정밀발굴조사지역: 4,732㎡, 표본조사지역: 21,712㎡, 참관조사지역: 80,664㎡ (총면적: 107,108㎡)",
+  "rkfr_des": "이 지질유산은 경상북도 영덕군 축산면 고곡리 7번 국도 도로변에 노출된 절개지에 위치\nNNE 주향의 양산단층대 주 단층대는 단층점토와 단층손상대가 혼재된 단층대의 특징을 보이며, 단층대의 폭은 약 150 m 정도로 확인\n단층핵은 퇴적암에서 기원된 단층비지 내지 단층각력으로 구성되며, 전단엽리가 흔하게 인지되는데 대부분의 전단엽리면에서는 미약한 우수향 감각이 포함된 역이동성 감각의 단층조선이 주로 확인\n단층대 내부에는 렌즈상의 흰색을 띠는 쥐라기 화강암이 포획되어 있으며 단층작용에 의해 변형되어 있음",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "1",
+      "ordr": "1",
+      "material_nm": "천영범, 하상민, 이윤성, 강희철, 김종선, 이선갑, 손문, 신현조, 2016, 경북 영덕군에서 확인된 양산단층대의 변형구조와 운동시기, 2016 추계지질학회 초록집.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "2",
+      "material_nm": "고경태, 최성자, 김용식, 최진혁, 2019, 영해 일원의 북부 양산단층대 기하학적 발달특성 연구. 대한지질학회 학술대회 초록집.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "3",
+      "material_nm": "Cheon Y, Cho H, Ha S, Kang H, Kim JS, Son M, 2019, Tectonically controlled multiple deformations along the Yangsan fault zone, SE Korea, since late cretaceous. J Asian Earth Sci 170:188–207.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "4",
+      "material_nm": "Ko, K., Choi, S. J., Lee, T. H., Gihm, Y. S., Kim, C. M., Kim, K., & Cheon, Y., 2022, A multidisciplinary approach to characterization of the mature northern Yangsan fault in Korea and its active faulting. Marine Geophysical Research, 43(2), 21.",
+      "pge": null
+    }
+  ]
+}

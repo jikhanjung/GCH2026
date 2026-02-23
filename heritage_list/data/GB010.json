@@ -1,0 +1,33 @@
+{
+  "survey_no": "GB010",
+  "survey_year": 2022,
+  "gch_nm": "영천 부산리 신령단층 변형대",
+  "survey_nm": "고경태, 이승환",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "경상북도 영천",
+  "geolgc_map_nm": "대율",
+  "strk_sdp": "N70°W/87°NE",
+  "types": [
+    {
+      "code": "Gc002",
+      "des": "지질(구조_변형작용)"
+    }
+  ],
+  "geolgc_age": "중생대 백악기",
+  "rrstv_rck": "미사암 및 셰일",
+  "address": "경상북도 영천시 신령면 부산리 903-1",
+  "lat_dms": "36°03′50.39″N",
+  "lon_dms": "128°43′59.50″E",
+  "cclt_scl": "정밀발굴조사지역: 451㎡, 표본조사지역: 1,451㎡, 참관조사지역: 8,714㎡ (총면적: 10,616㎡)",
+  "rkfr_des": "이 지역은 '영천 부산리 신령단층 변형대' 지질유산으로 명명되어 있음\n노두는 지연 하천바닥에 노출되어 있으며, 단층작용에 의한 주변형대와 단층파쇄대가 관찰됨\n신령단층은 가음단층계를 구성하는 단층들 중 하나이며, 서북서 방향의 직수향 주향이동단층으로 알려져 있음\n노두에서 관찰된 단층대의 기하는 N70°W/87NE°이며, 역단층성의 직수향 운동감각을 보임\n단층대는 약 5 m 내외로 발달 하고 있으며, 단층각력으로 구성된 약 m 폭의 단층파쇄대와 수 cm 폭의 여러 매의 단층핵이 관찰됨\n북동-남서 방향의 인장단열을 따라서 후기 열수에 의한 방해석 세맥들이 충전되어 있음",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "1",
+      "ordr": "1",
+      "material_nm": "Cheon, Y., Song, C.W., Lee, S.K., Kim, J.-S. and Son, M., 2013, Intraplate Strike-Slip Reactivation of the Sinnyeong Fault in the Cretaceous Gyeongsang Basin, Korea, Due to the Concentration of Later Compressional Stress. Journal of Geoscience and Environment Protection, 1, 12-17.",
+      "pge": null
+    }
+  ]
+}

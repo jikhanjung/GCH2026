@@ -1,0 +1,105 @@
+{
+  "survey_no": "GW012",
+  "survey_year": 2024,
+  "gch_nm": "태백 문곡동 동고층의 사층리",
+  "survey_nm": "고경태, 송교영",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "강원권",
+  "geolgc_map_nm": "장성",
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "Gc001",
+      "des": "지질(구조_퇴적작용)"
+    }
+  ],
+  "geolgc_age": "트라이아스기",
+  "rrstv_rck": "역암, 사암",
+  "address": "강원특별자치도 태백시 문곡동 113-17",
+  "lat_dms": "37°07′36.20″N",
+  "lon_dms": "129°00′12.31″E",
+  "cclt_scl": "정밀발굴조사지역: 2,082㎡, 표본조사지역: 130,64㎡ (총면적: 15,146㎡)",
+  "rkfr_des": "지질유산은 태백시 문곡동 113-17 일원 장성여자고등학교 입구에 있는 일광교의 북쪽 황지천 하상노두에 위치\n평안누층군 황지층군에 해당되는 동고층이 분포하며, 주구성 암석은 대체로 사암과 실트암임\n동고층의 지질시대는 전기 트라이아스기로 보고됨\n조사지역의 동고층은 대체로 원마도가 좋은 역(대체로 잔자갈)을 함유한 조립질 사암 내지 중립질 사암으로 구성\n동고층 내에는 점점이층리와 판상사층리, 곡상사층리와 같은 퇴적구조가 잘 관찰되는 것이 특징임",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "1",
+      "ordr": "1",
+      "material_nm": "Lee, H.S., and Chough, S.K., 2006a, Sequence stratigraphy of Pyeongan Supergroup (Carboniferous-Permian), Taebaek area, mideast Korea. Geosci. J., 10, 369-389.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "2",
+      "material_nm": "Lee, H.S., and Chough, S.K., 2006b, Lithostratigraphy and depositional environments of the Pyeongan Supergroup (Carboniferous-Permain) in the Taebaek area, mid-east Korea. J. Asian Earth Sci., 26, 339-352.",
+      "pge": null
+    },
+    {
+      "group_gbn": "2",
+      "ordr": "1",
+      "material_nm": "태백산지구지하자원조사단, 1962, 태백산지구 지하자원보고서 및 태백산지구 지질도. 대한지질학회, 107 p.",
+      "pge": null
+    },
+    {
+      "group_gbn": "2",
+      "ordr": "2",
+      "material_nm": "윤석규, 1967, 1:50,000 장성 지질도폭 설명서. 국립지질조사소, 18p.",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "한국의 지질유산 정보구축 및 관리방안(이수재, 2008)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "2",
+      "material_nm": "전국 지질유산 분포 및 현황조사(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "3",
+      "material_nm": "한국의 지질유산(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "4",
+      "material_nm": "전국자연환경조사보고서(환경부)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "5",
+      "material_nm": "한국의 지질노두 150선(한국지질자원연구원, 2004)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "6",
+      "material_nm": "한국의 지질노두 160선(한국지질자원연구원, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "7",
+      "material_nm": "한국의 지질다양성(문화재청, 2011, 2012, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "8",
+      "material_nm": "지형·지질 문화재 정밀조사 보고서(문화재청, 2008, 2009, 2010)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "9",
+      "material_nm": "지질·광물 문화재 정밀조사 보고서(문화재청, 2002, 2005, 2006, 2007)",
+      "pge": null
+    }
+  ]
+}

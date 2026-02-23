@@ -1,0 +1,123 @@
+{
+  "survey_no": "GW013",
+  "survey_year": 2024,
+  "gch_nm": "태백 장성동 고생대 복족류 화석산지",
+  "survey_nm": "고경태, 송교영",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "강원권",
+  "geolgc_map_nm": "장성",
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "Fb001",
+      "des": "화석(무척추동물화석_연체동물)"
+    }
+  ],
+  "geolgc_age": "고생대 오르도비스기",
+  "rrstv_rck": "석회암",
+  "address": "강원특별자치도 태백시 장성동 150-42",
+  "lat_dms": "37°06′10.06″N",
+  "lon_dms": "129°00′28.28″E",
+  "cclt_scl": "정밀발굴조사지역: 9,380㎡, 표본조사지역: 75,825㎡ (총면적: 85,205㎡)",
+  "rkfr_des": "지질유산은 태백시 장성동 150-40 장성중앙교회 내 위치한 석회암 노두에서 관찰됨\n장성중앙교회 내 소규모로 노출된 석회암 노두에서 복족류 패각화석이 매우 높은 밀집도를 보이며 산출\n기존 지질도에서는 평안계 홍점층군으로 보고되었으나, 최근 연구자들에 의해 고생대 오르도비스기에 퇴적된 조선누층군 태백층군에 해당되는 것으로 알려짐\n막골층과 직운산층 모두에서 복족류 화석이 보고됨에 따라 본 지질유산이 산출되는 석회암이 막골층과 직운산층 중 어디에 해당되는지 대한 추가적인 퇴적층서학적 연구가 필요\n지질탐방로와 해설 안내판이 조성되어 있어 지역민과 지역 학생들의 현장학습장으로 활용되고 있음",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "1",
+      "ordr": "1",
+      "material_nm": "최덕근, 2009, 태백산분지 삼엽충 화석군과 한반도의 전기 고생대 고지리·고환경 복원에서 그들의 중요성. 고생물학회지, 25, 129-148.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "2",
+      "material_nm": "양승영, 2014, Trigonioididae 과의 계통진화 경향: 이매패류 진화의 한 예로서: 이매패류 진화의 한 예로서. 고생물학회지, 29, 27-35.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "3",
+      "material_nm": "Kobayashi, T. 1934. The Cambro-Ordovician Formations and faunas of South Chosen. Palaeontology, Pt. 1, Middle Ordovician faunas. Journal of the Faculty of Science, Imperial University of Tokyo, section 2, 3:329-519.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "4",
+      "material_nm": "Kwon, Y.K., Lee, D.J., Choi, D.K. and Chough, S.K., 2003, Lower Ordovician sponge bioherms in the Makkol Formation, Taebaeksan Basin, mideast Korea. Facies, 48, 79-90.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "5",
+      "material_nm": "Choi, D.K., Chough, S.K., Kwon, I.K., Lee, S.-B., Woo, J., Kang, I., Lee, H. S., Lee, S. M., Sohn, J. W., Shinn, Y. J. and Lee, D. J., 2004. Taebaek Group (Cambrian-Ordovician) in the Seokgaejae section, Taebaeksan Basin: a refined lower Paleozoic stratigraphy in Korea. Geosciences Journal, 8, 125-151.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "6",
+      "material_nm": "Kwon, Y.K., Chough, S.K., Choi, D.K. and Lee, D.J., 2006, Sequence stratigraphy of the Taebaek Group (Cambrian-Ordovician), mideast Korea. Sedimentary Geology, 192, 19-55.",
+      "pge": null
+    },
+    {
+      "group_gbn": "2",
+      "ordr": "1",
+      "material_nm": "윤석규, 1967, 1:50,000 장성 지질도폭 설명서. 국립지질조사소, 18p.",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "한국의 지질유산 정보구축 및 관리방안(이수재, 2008)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "2",
+      "material_nm": "전국 지질유산 분포 및 현황조사(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "3",
+      "material_nm": "한국의 지질유산(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "4",
+      "material_nm": "전국자연환경조사보고서(환경부)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "5",
+      "material_nm": "한국의 지질노두 150선(한국지질자원연구원, 2004)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "6",
+      "material_nm": "한국의 지질노두 160선(한국지질자원연구원, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "7",
+      "material_nm": "한국의 지질다양성(문화재청, 2011, 2012, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "8",
+      "material_nm": "지형·지질 문화재 정밀조사 보고서(문화재청, 2008, 2009, 2010)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "9",
+      "material_nm": "지질·광물 문화재 정밀조사 보고서(문화재청, 2002, 2005, 2006, 2007)",
+      "pge": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "survey_no": "GB003",
+  "survey_year": 2022,
+  "gch_nm": "문경 하내리 삼엽충 화석산지",
+  "survey_nm": "고경태, 이승환",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "경상북도",
+  "geolgc_map_nm": "함창",
+  "strk_sdp": "N80°E/64°NW",
+  "types": [
+    {
+      "code": "Fb002",
+      "des": "화석(무척추동물화석_절지동물)"
+    }
+  ],
+  "geolgc_age": "고생대 캄브리아기",
+  "rrstv_rck": "이암, 사질 이암, 석회암",
+  "address": "경상북도 문경시 마성면 하내리 960",
+  "lat_dms": "36°39′21.52″N",
+  "lon_dms": "128°05′28.88″E",
+  "cclt_scl": "정밀발굴조사지역: 273㎡, 표본조사지역: 89,759㎡ (총면적: 90,032㎡)",
+  "rkfr_des": "이 지역은 '문경 하내리 삼엽충 화석산지' 지질유산으로 명명되어 있음\n노두는 영강 하천변 주변에 소규모로 노출\n주암석은 적색 내지 청회색의 이암, 회색 사질 이암 및 암회색 석회암과 돌로마이트질 석회암이 협재하여 분포하고 있음(구랑리층)\n캄브리아기 초기를 지시하는 대표적인 표준화석으로 알려진 Redlichia nobilis Walcott이라는 삼엽충이 산출됨\n화석의 산출은 완전한 형태는 거의 드물며, 대부분 파편 형태로 관찰됨",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "1",
+      "ordr": "1",
+      "material_nm": "Dae-Young Lee and Ha-Young Lee, 1985, An occurrence of the trilobite species, redlichia nonilis walcott from the gurangri formation in the Mungyeong area, Gyeongsangbukdo, South Korea. 159-165.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "2",
+      "material_nm": "Woon Sang Yoon, Dong-Chan Lee, Paul S. Hong, Seung-Bae Lee, Jongsun Hong and Jeong-gu Lee, 2021, Redlichia nobilis Walcott, 1905, the oldest trilobite in South Korea: age and morphologic restoration by strain analysis. Geosciences Journal, 25, 785-798.",
+      "pge": null
+    }
+  ]
+}

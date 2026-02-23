@@ -1,0 +1,45 @@
+{
+  "survey_no": "GB015",
+  "survey_year": 2023,
+  "gch_nm": "봉화 갈산리 속새식물화석",
+  "survey_nm": "고경태, 이태호",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "경북권",
+  "geolgc_map_nm": "춘양",
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "Fc001",
+      "des": "화석(식물화석_양치식물)"
+    }
+  ],
+  "geolgc_age": "중생대 백악기",
+  "rrstv_rck": "흑색셰일, 이암, 사암(백악기 묘곡층)",
+  "address": "경상북도 봉화군 재산면 갈산리 2564-1",
+  "lat_dms": "36°50′0.92″N",
+  "lon_dms": "128°58′19.75″E",
+  "cclt_scl": "정밀발굴조사지역: 51,712㎡, 표본조사지역: 45,189㎡ (총면적: 96,901㎡)",
+  "rkfr_des": "이 화석산지는 봉화군 재산면 재산천 하천 바닥에 위치하고 있음\n주 암석은 흑색을 띠는 셰일과 이암, 사암으로 구성되어 있으며, 백악기 묘곡층에 해당\n묘곡층에서 산출되는 속새식물화석은 현생하는 속새식물과 대비되며, 속으로 포자가 번식하는 관속식물임\n2개의 자색 이암 층준에서 공룡발자국과 새발자국 화석이 산출됨\n국내의 속새화석은 주로 충남탄전을 중심으로 한 대동누층군에서 산출되는 것들이 대부분인데, 백악기의 지층 중에서는 묘곡층에서만 속새식물화석이 산출되어 지질학적 가치가 높음\n중생대 쥐라기에서 산출되는 속새식물화석과의 상세 비교 연구가 필요함",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "1",
+      "ordr": "1",
+      "material_nm": "정창희, 이하영, 1966, 경북 봉화군 재산면 묘곡에 분포하는 묘곡층과 조구조적 의미 연구, 지질학회지.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "2",
+      "material_nm": "전희영, 2017, 층서 및 지질구조 해석을 위한 고생물 자료의 중요성, 지질학회지",
+      "pge": null
+    },
+    {
+      "group_gbn": "2",
+      "ordr": "1",
+      "material_nm": "Yi, M.S. and Chun, H.Y., 1993, Palynomorphs from the Myogog Formation, Korea, and their stratigraphic significance. Jour. Geol. Soc. Korea, vol. 29, no. 3, p.246-257.",
+      "pge": null
+    }
+  ]
+}

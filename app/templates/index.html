@@ -1,0 +1,102 @@
+{% extends "base.html" %}
+
+{% block title %}지질유산 목록 — 지질유산 DB{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2 class="mb-0">지질문화유산 목록</h2>
+    <div class="d-flex gap-2">
+        <a href="/map" class="btn btn-outline-primary">지도</a>
+        <a href="/heritage/new" class="btn btn-success">+ 새로 등록</a>
+    </div>
+</div>
+
+<!-- 검색/필터 -->
+<form method="get" action="/" class="row g-2 mb-4">
+    <div class="col-md-5">
+        <input type="text" name="q" class="form-control" placeholder="유산명 또는 주소 검색" value="{{ q }}">
+    </div>
+    <div class="col-md-3">
+        <select name="ty" class="form-select">
+            <option value="">전체 분류</option>
+            {% for tc in top_codes %}
+            <option value="{{ tc.TOP_CD }}" {% if ty == tc.TOP_CD %}selected{% endif %}>
+                {{ tc.TOP_CD_NM }} ({{ tc.TOP_CD }})
+            </option>
+            {% endfor %}
+        </select>
+    </div>
+    <div class="col-md-2">
+        <button type="submit" class="btn btn-primary w-100">검색</button>
+    </div>
+    {% if q or ty %}
+    <div class="col-md-2">
+        <a href="/" class="btn btn-outline-secondary w-100">초기화</a>
+    </div>
+    {% endif %}
+</form>
+
+<p class="text-muted">총 <strong>{{ total }}</strong>건</p>
+
+{% if rows %}
+<div class="table-responsive">
+    <table class="table table-hover table-bordered align-middle">
+        <thead class="table-dark">
+            <tr>
+                <th>조사번호</th>
+                <th>유산명</th>
+                <th>분류</th>
+                <th>주소</th>
+                <th>지질시대</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for r in rows %}
+            <tr>
+                <td>
+                    <a href="/heritage/{{ r.SURVEY_NO }}">{{ r.SURVEY_NO }}</a>
+                </td>
+                <td>{{ r.GCH_NM or '-' }}</td>
+                <td>
+                    {% if r.ty1_top_nm %}
+                    <span class="badge bg-secondary">{{ r.ty1_top_nm }}</span>
+                    {% endif %}
+                    {{ r.TY1_DES or '' }}
+                </td>
+                <td>{{ r.ADDRESS or '-' }}</td>
+                <td>{{ r.GEOLGC_AGE or '-' }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<!-- 페이징 -->
+{% if total_pages > 1 %}
+<nav>
+    <ul class="pagination justify-content-center">
+        <li class="page-item {% if page <= 1 %}disabled{% endif %}">
+            <a class="page-link" href="?q={{ q }}&ty={{ ty }}&page={{ page - 1 }}">이전</a>
+        </li>
+        {% for p in range(1, total_pages + 1) %}
+            {% if p == page %}
+            <li class="page-item active"><span class="page-link">{{ p }}</span></li>
+            {% elif p <= 3 or p > total_pages - 3 or (p >= page - 2 and p <= page + 2) %}
+            <li class="page-item">
+                <a class="page-link" href="?q={{ q }}&ty={{ ty }}&page={{ p }}">{{ p }}</a>
+            </li>
+            {% elif p == 4 or p == total_pages - 3 %}
+            <li class="page-item disabled"><span class="page-link">...</span></li>
+            {% endif %}
+        {% endfor %}
+        <li class="page-item {% if page >= total_pages %}disabled{% endif %}">
+            <a class="page-link" href="?q={{ q }}&ty={{ ty }}&page={{ page + 1 }}">다음</a>
+        </li>
+    </ul>
+</nav>
+{% endif %}
+
+{% else %}
+<div class="alert alert-info">조회된 데이터가 없습니다.</div>
+{% endif %}
+{% endblock %}

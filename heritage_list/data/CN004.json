@@ -1,0 +1,123 @@
+{
+  "survey_no": "CN004",
+  "survey_year": 2022,
+  "gch_nm": "서천 다사리 해안사구",
+  "survey_nm": "진광민, 김문기",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "충청권",
+  "geolgc_map_nm": "공주",
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "Lb003",
+      "des": "지형(자연지형_침식/퇴적작용)"
+    }
+  ],
+  "geolgc_age": "신생대 제4기",
+  "rrstv_rck": "현무암",
+  "address": "충남 서천군 비인면 다사리 산16-3",
+  "lat_dms": "36°6′12.4″N",
+  "lon_dms": "126°36′32.0″E",
+  "cclt_scl": "유존지역: 224,927㎡",
+  "rkfr_des": "다사리 해안사구(북북서-남남동 방향, 폭 400-500 m, 길이 약 1 km)는 해안에 평행한 방향의 구릉 지형과 모래로 이루어진 시면, 사구 표면에 발달한 숲림 등의 식생 등 서해안 지역 해안사구의 일반적인 특성을 보인다. 최근 이상헌 외(2015)에 의하면 이 해안사구에는 약 3,000년 전에 형성된 폭풍 기원의 파각퇴적층 2매가 발달되어 있는 것으로 보고되었다. 이 폭풍퇴적층은 고도 6.67-7.63 m 사이에 노출된 사구층의 붕락 단면에서 관찰되었으며, 폭풍퇴적층 내에는 파각과 함께 해성기원의 유기질 미화석이 산출되는 것으로 확인되었다(이상헌 외, 2015). 특히 이와 같이 서해안 해안사구 퇴적층 내에 홀로세 동안 일어난 폭풍기원의 퇴적층이 확인된 것은 다사리 해안사구 지역이 유일하다. 또한 이 사구 전면에는 사빈과 사질평원이 발달하며, 이 지역의 갯벌은 람사르습지로 등록된 서천 갯벌에 포함되어 있어 보호되고 있는 지역으로 지질유산으로서의 가치가 높다.",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "1",
+      "ordr": "1",
+      "material_nm": "최광희, 장태수, 최정헌, 김윤미, 이수용, 2014, 충남 다사리 해안 사구에 기록된 폭풍퇴적층. 지질학회지, 50, 539-549.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "2",
+      "material_nm": "이상헌, 장태수. 최정헌, 김진철, 2015, 서해안 사구 퇴적층에서의 유기질 미화석을 이용한 고폭풍 퇴적층 인지 가능성 고찰. 지질학회지, 51, 327-332.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "3",
+      "material_nm": "조형성, 강희철, 신승원, 정대교, 백인성, 임현수, 신동복, 김현주, 이찬희, 김종선, 2016, 충청권 지질유산의 분포와 가치평가. 지질학회지, 52, 639-664.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "4",
+      "material_nm": "Chang, T. S., Ha, H. J., Hong, S. H., 2016, Mud deposition on a macrotidal beach: Dasari coastal dune, west coast of Korea. Journal of Coastal Research, 75, 1312-1316.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "5",
+      "material_nm": "Chang, T. S., Hong, S. H., Chun, S. S., Choi, J. H., 2017, Age and morphodynamics of a sandy beach fronted by a macrotidal mud flat along the west coast of Korea: a lateral headland bypass model for beach-dune formation. Geo-Marine Letters, 37, 361-371.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "6",
+      "material_nm": "최광희, 김정수, 공학양, 2017, 해안림 내부의 지형측량을 통한 충남 다사리 해안사구의 형태적 특징. 한국지형학회지, 24, 1-12.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "7",
+      "material_nm": "공학양, 박성민, 신영규, 최광희, 2018, 해안사구 모래보강을 통한 해안침식 저감 효과-충청남도 다사리 사구를 사례로. 한국지형학회지, 25, 37-47.",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "한국의 지질유산 정보구축 및 관리방안(이수재, 2008)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "2",
+      "material_nm": "전국 지질유산 분포 및 현황조사(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "3",
+      "material_nm": "한국의 지질유산(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "4",
+      "material_nm": "전국자연환경조사보고서(환경부)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "5",
+      "material_nm": "한국의 지질노두 150선(한국지질자원연구원, 2004)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "6",
+      "material_nm": "한국의 지질노두 160선(한국지질자원연구원, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "7",
+      "material_nm": "한국의 지질다양성(문화재청, 2011, 2012, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "8",
+      "material_nm": "지형·지질 문화재 정밀조사 보고서(문화재청, 2008, 2009, 2010)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "9",
+      "material_nm": "지질·광물 문화재 정밀조사 보고서(문화재청, 2002, 2005, 2006, 2007)",
+      "pge": null
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "survey_no": "GN030",
+  "survey_year": 2024,
+  "gch_nm": "합천 초계-적중면 분지지형",
+  "survey_nm": "권창우, 이태호",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "경남권",
+  "geolgc_map_nm": "합천, 창녕",
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "Lb003",
+      "des": "지형(자연지형_침식/퇴적작용)"
+    }
+  ],
+  "geolgc_age": "중생대 백악기",
+  "rrstv_rck": "셰일, 사암",
+  "address": "경상남도 합천군 초계면/적중면 일원",
+  "lat_dms": "35°32′28.80″N",
+  "lon_dms": "128°15′52.93″E",
+  "cclt_scl": "총 면적 약 16,253,425㎡, 정밀발굴조사지역 약 16,253,425㎡",
+  "rkfr_des": "본 지질유산은 합천군 초계면, 적중면 일원으로 동서방향 직경 약 8.7km, 남북방향 직경 약 6.7km의 분지지형 구조로 산출\n운석 충돌로 형성된 분지 지형으로, 전형적인 산지와 분지 구조가 뚜렷이 나타남\n경상분지 진주층과 칠곡층에 해당\n일부 구간에서 운석충돌에 의해 형성된 충격각력암 구조가 보고됨\n운석충돌구 관광안내소에 충격각력암 노두의 일부가 전시되어 있음",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "1",
+      "ordr": "1",
+      "material_nm": "Lim,J., Park,S., Jung,A., Kim,S.W., 2024, Post-impact lake environment changes in the Hapcheon impact crater, Korea. Episodes Journal of International Geoscience, 47, 477-496.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "2",
+      "material_nm": "Lee,J.Y., Shin,S., Yoon,H.H., Kim,J.C., Choi,Y., Nahm,W.H., Kim,H., 2023, The Sedimentary records of the Hapcheon impact crater basin in Korea over the past 1.3 Ma. Frontiers in Earth Science, 11, 1102785.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "3",
+      "material_nm": "Lim,J., Hong,S.S., Han,M., Yi,S.,bKim,S.W.,2021, First finding of impact cratering in the Korean Peninsula. Gondwana Research, 91, 121-128.",
+      "pge": null
+    },
+    {
+      "group_gbn": "2",
+      "ordr": "1",
+      "material_nm": "장기홍, 1968, 합천 지질도폭 설명서. 국립지질조사소, 21p",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "한국의 지질유산 정보구축 및 관리방안(이수재, 2008)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "2",
+      "material_nm": "전국 지질유산 분포 및 현황조사(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "3",
+      "material_nm": "한국의 지질유산(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "4",
+      "material_nm": "전국자연환경조사보고서(환경부)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "5",
+      "material_nm": "한국의 지질노두 150선(한국지질자원연구원, 2004)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "6",
+      "material_nm": "한국의 지질노두 160선(한국지질자원연구원, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "7",
+      "material_nm": "한국의 지질다양성(문화재청, 2011, 2012, 2013)",
+      "pge": "204-207"
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "8",
+      "material_nm": "지형·지질 문화재 정밀조사 보고서(문화재청, 2008, 2009, 2010)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "9",
+      "material_nm": "지질·광물 문화재 정밀조사 보고서(문화재청, 2002, 2005, 2006, 2007)",
+      "pge": null
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "survey_no": "GN022",
+  "survey_year": 2023,
+  "gch_nm": "고성 용태리 진동층과 고성층 부정합 경계",
+  "survey_nm": "권창우, 김현철",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "경남권",
+  "geolgc_map_nm": "삼천포",
+  "strk_sdp": "N80W/15NE",
+  "types": [
+    {
+      "code": "Gb001",
+      "des": "지질(층서_지질계통 대표 지질경계선)"
+    }
+  ],
+  "geolgc_age": "중생대 백악기",
+  "rrstv_rck": "이암, 사암, 역암",
+  "address": "경남 고성군 하일면 용태리 산 29-1",
+  "lat_dms": "34°56′44.54″N",
+  "lon_dms": "128°13′22.35″E",
+  "cclt_scl": "정밀발굴조사지역: 521㎡ (총면적: 521㎡)",
+  "rkfr_des": "본 지질유산은 고성군 용태리 자린만 우측 해안가에 산출\n주 암석은 thin- to thick-bedded 암회색 이암, (역질)사암 그리고 역암으로 구성\n역암층 아래(해안가 바닥)에 나타나는 암회색 이암과 사암은 진동층에 해당되며, 역암은 고성층에 해당됨\n역암층은 아래 이암층 및 사암층과 침식경계를 보임\n역암층 내에는 다량의 화산암 암편을 포함하고 있는점, 그리고 역암층 내에 발달한 사층리의 방향이 남쪽에서 북쪽으로 향하는 특징은 일반적으로 서쪽에서 동쪽으로 퇴적물이 공급되는 경상분지의 퇴적시스템이 아닌 남쪽에 발달하고 있는 화산체에서 기원한 퇴적시스템에서 퇴적물이 공급된 것으로 해석\n이러한 특성은 고성층이 하양층군이 아닌 유천층군 최하부 지층으로 해석됨",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "1",
+      "ordr": "1",
+      "material_nm": "Chough, S.K. and Sohn, Y.K., Tectonic and sedimentary evolution of a Cretaceous continental arc-backarc system in the Korean penisnsula: new view. Earth-Science Reviews, 101, 225-249.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "2",
+      "material_nm": "이윤성, 천영범, 하상민, 강희철, 손문, 2018, 경상분지 남부 고성층의 분포, 퇴적시기와 구조진화사. 지질학회지, 54, 359-381.",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "한국의 지질유산 정보구축 및 관리방안(이수재, 2008)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "2",
+      "material_nm": "전국 지질유산 분포 및 현황조사(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "3",
+      "material_nm": "한국의 지질유산(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "4",
+      "material_nm": "전국자연환경조사보고서(환경부)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "5",
+      "material_nm": "한국의 지질노두 150선(한국지질자원연구원, 2004)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "6",
+      "material_nm": "한국의 지질노두 160선(한국지질자원연구원, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "7",
+      "material_nm": "한국의 지질다양성(문화재청, 2011, 2012, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "8",
+      "material_nm": "지형·지질 문화재 정밀조사 보고서(문화재청, 2008, 2009, 2010)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "9",
+      "material_nm": "지질·광물 문화재 정밀조사 보고서(문화재청, 2002, 2005, 2006, 2007)",
+      "pge": null
+    }
+  ]
+}

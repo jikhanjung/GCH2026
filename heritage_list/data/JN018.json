@@ -1,0 +1,119 @@
+{
+  "survey_no": "JN018",
+  "survey_year": 2023,
+  "gch_nm": "고흥 안남리 백악기 역암층(부정합과 단층)",
+  "survey_nm": "진광민, 김문기",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "전라권",
+  "geolgc_map_nm": "대강리",
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "Gc001",
+      "des": "지질(구조_퇴적작용)"
+    },
+    {
+      "code": "Gc002",
+      "des": "지질(구조_변형작용)"
+    },
+    {
+      "code": "Gb001",
+      "des": "지질(층서_지질계통대표지질경계선)"
+    }
+  ],
+  "geolgc_age": "중생대 백악기",
+  "rrstv_rck": "역암, 사암",
+  "address": "전남 고흥군 대서면 안남리 743-1",
+  "lat_dms": "34°44′25.97″N",
+  "lon_dms": "127°15′54.04″E",
+  "cclt_scl": "정밀발굴조사지역: 27,182㎡, 표본조사지역: 66,946㎡, 참관조사지역: 77,136㎡ (총면적: 171,264㎡)",
+  "rkfr_des": "역암과 역질사암 등으로 이루어진 전기백악기의 퇴적층(두원층)이 해안을 따라 절벽과 바닥에 단속적으로 노출되어 있으며, 앞에는 갯벌이 형성되어 있다. 이 지역 노두에서는 하천 상류지역에서의 퇴적 특성을 이해하는 데에 유용한 퇴적구조와 조직들이 다양하게 발달되어 있으며, 단층운동에 의하여 변형된 역들이 발달한다. 이들 변형된 역은 이 지역에서 분지확장시 정단층 및 주향이동성 단층운동에 의하여 발생된 전단 및 압축작용으로 생성되었다. 이들 변형된 역들은 모두 풍화 및 침식에 강한 규암이며, 역들에는 전단 및 압축작용을 지시하는 특이 균열들이 발달하고 있다. 이와 함께 선캄브리아시대의 화강편마암 및 쥐라기의 화강암과의 부정합 관계와 백악기 이후의 단층이 한 장소에 나타나 있어, 지질 다양성이 높은 지역이다. 한편 본 지질유산에는 암석해안의 경관과 함께 탐방로의 설치 및 전문 해설가가 함께하는 체험교실이 운영되고 있어 교육적 가치가 아주 높다.",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "1",
+      "ordr": "1",
+      "material_nm": "채용운, 하수진, 김정빈, 김경수, & 임현수. (2019). 전남 고흥지역에 분포하는 두원층과 고흥응회암의 저어콘 U-Pb 연대. 지질학회지, 55(5), 583-594.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "2",
+      "material_nm": "조형성, 강희철, 김종선, 정대교, 백인성, 임현수, 최태진, 김현주, 노열, 조규성, 허민, 신승원. (2019). 한국의 지질유산 분포와 가치평가: 전라권. 암석학회지, 28(4), 319-345.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "3",
+      "material_nm": "이경진, 박승익, 이효종, & 김용식. (2021). 유역분지 특성에 따른 충적선상지의 퇴적작용. 자원환경지질, 54(4), 441-456.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "4",
+      "material_nm": "Chae, Y. U., Ha, S., Choi, T., Kim, C. B., Kim, K. S., Lim, H. S. (2021). Detrital zircon provenance of the Lower Cretaceous Duwon Formation based on LA-MC-ICPMS U-Pb ages and morphology in the Goheung area, southern Korea: A new supply mechanism of Early Cretaceous zircons. Cretaceous Research, 128, 104955.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "5",
+      "material_nm": "Lee, K., & Gihm, Y. S. (2023). Downstream changes in floodplain sedimentation and their effects on channel avulsion in stream-dominated alluvial fans: The cretaceous Duwon Formation in the southern Korean Peninsula. Sedimentary Geology, 456, 106473.",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "한국의 지질유산 정보구축 및 관리방안(이수재, 2008)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "2",
+      "material_nm": "전국 지질유산 분포 및 현황조사(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "3",
+      "material_nm": "한국의 지질유산(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "4",
+      "material_nm": "전국자연환경조사보고서(환경부)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "5",
+      "material_nm": "한국의 지질노두 150선(한국지질자원연구원, 2004)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "6",
+      "material_nm": "한국의 지질노두 160선(한국지질자원연구원, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "7",
+      "material_nm": "한국의 지질다양성(문화재청, 2011, 2012, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "8",
+      "material_nm": "지형·지질 문화재 정밀조사 보고서(문화재청, 2008, 2009, 2010)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "9",
+      "material_nm": "지질·광물 문화재 정밀조사 보고서(문화재청, 2002, 2005, 2006, 2007)",
+      "pge": null
+    }
+  ]
+}

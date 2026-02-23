@@ -1,0 +1,111 @@
+{
+  "survey_no": "GW008",
+  "survey_year": 2024,
+  "gch_nm": "춘천 오탄리 쥐라기 반려암과 페그마타이트",
+  "survey_nm": "고경태, 송교영",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "강원권",
+  "geolgc_map_nm": "화천",
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "Gc004",
+      "des": "지질(구조_화성작용)"
+    }
+  ],
+  "geolgc_age": "중생대 쥐라기",
+  "rrstv_rck": "반려암, 페그마타이트",
+  "address": "강원특별자치도 춘천시 사북면 오탄리 산198",
+  "lat_dms": "38°03′00.65″N",
+  "lon_dms": "127°36′34.65″E",
+  "cclt_scl": "정밀발굴조사지역: 4,912㎡, 표본조사지역: 217,867㎡ (총면적: 222,779㎡)",
+  "rkfr_des": "지질유산은 춘천시 사북면 오탄리 산 198삼거교 아래 지촌천 하상노두에 분포\n선캄브리아시대 호상편마암을 관입한 중생대 쥐라기의 고철질 반려암-섬록암 복합체가 분포하고, 이들을 후기에 관입한 페그마타이트 암맥으로 구성됨\n반려암-섬록암 복합체(166±1 Ma, Kim et al., 1999)는 오탄리 일대에서 약 1 km 반경의 타원체로 산출되며, 암회색 내지 암청색을 띠며 세립 내지 조립질로서 암체 내에서도 조직의 변화가 심함\n페그마타이트 암맥은 폭이 10 cm에서 최대 약 50 cm에 이르기까지 변화가 심하며 연장과 발달규모도 전반적으로 불규칙한 산출 양상을 보임",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "1",
+      "ordr": "1",
+      "material_nm": "김관영, 박영록, 2007, 춘천 오탄리에 분포하는 각섬석 반려암-섬록암 복합체의 성인. 지질학회지, 43, 437-452.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "2",
+      "material_nm": "김관영, 박영록, 2009, 화천 구운리와 춘천 오탄리 일대에 분포하는 각섬석 반려암체내에 존재하는 각섬석류의 산출양상 및 생성작용. 암석학회지, 2, 79-91.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "3",
+      "material_nm": "박영석, 김정빈, 박기화, Jiangfeng Chen, 김 진, 1999, 오탄리 지역에 분포하는 중성·염기성 심성암류에 대한 암석 화학적 연구. 지구과학회지, 20, 544-555.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "4",
+      "material_nm": "Kim, C.B., Park, Y.S., Chang, H.W. and Turek, A., 1999, Geochronology, Petrology and Tectonics of Triassic-Jurassic plutonic rocks of the Ryeongnam and Gyeonggi Massifs, Korea. ICOG-9(The Ninth International Conference on Geochronology, Cosmochronology and Isotope Geology), p. 65.",
+      "pge": null
+    },
+    {
+      "group_gbn": "2",
+      "ordr": "1",
+      "material_nm": "박기화, 이병주, 조등룡, 김정빈, 1997, 화천 지질조사보고서(1:50,000). 한국자원연구소, 33p.",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "한국의 지질유산 정보구축 및 관리방안(이수재, 2008)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "2",
+      "material_nm": "전국 지질유산 분포 및 현황조사(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "3",
+      "material_nm": "한국의 지질유산(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "4",
+      "material_nm": "전국자연환경조사보고서(환경부)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "5",
+      "material_nm": "한국의 지질노두 150선(한국지질자원연구원, 2004)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "6",
+      "material_nm": "한국의 지질노두 160선(한국지질자원연구원, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "7",
+      "material_nm": "한국의 지질다양성(문화재청, 2014 동부경남권)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "8",
+      "material_nm": "지형·지질 문화재 정밀조사 보고서(문화재청, 2008, 2009, 2010)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "9",
+      "material_nm": "지질·광물 문화재 정밀조사 보고서(문화재청, 2002, 2005, 2006, 2007)",
+      "pge": null
+    }
+  ]
+}

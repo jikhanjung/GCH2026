@@ -1,0 +1,59 @@
+{
+  "survey_no": "JJ030",
+  "survey_year": 2024,
+  "gch_nm": "제주 선흘리 선흘수직굴",
+  "survey_nm": "김련, 이종희, 최문복, 유지훈, 홍정표",
+  "psitn": "사단법인 한국동굴연구소",
+  "cttpc": null,
+  "area_nm": "제주",
+  "geolgc_map_nm": null,
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "La001",
+      "des": "지형(동굴_화산활동작용)"
+    }
+  ],
+  "geolgc_age": "신생대 제4기",
+  "rrstv_rck": "거문오름암설사태층",
+  "address": "제주특별자치도 제주시 조천읍 선흘리",
+  "lat_dms": "33°27′31.9″N",
+  "lon_dms": "126°43′32.4″E",
+  "cclt_scl": "매장유산(동굴)유존지역: 1,836.37㎡, 참관조사지역: 7,842.51㎡ (총면적: 9,678.88㎡)",
+  "rkfr_des": "국가유산지정구역 내 위치\n거문오름용암동굴계의 가장 상류에 위치하는 동굴\n대부분의 구간은 낙반에 의해 동굴의 천장과 벽면의 형태 확인이 불가능",
+  "cave": {
+    "ent_size": "2.4m × 1.8m(타원형)",
+    "length": "약 80m",
+    "type": "수직",
+    "ent_dir": "수직",
+    "direction": "북서(NW)",
+    "ungrd_water": "무",
+    "ent_water": "무",
+    "access": "조천읍 선흘리 산95에 위치하며 제주세계자연유산 거문오름 탐방로(분화구 코스)의 마지막 지점에 위치",
+    "unkn_topo_des": "천장창",
+    "unkn_topo_rank": "라",
+    "prodt_des": "용암종유, 용암유석",
+    "prodt_rank": "라",
+    "bio_des": "두가시통거미 등 17종",
+    "bio_rank": "라",
+    "prs_protect": "유(격지형보호시설)",
+    "protect": "미설치",
+    "prsv_rank": "보통",
+    "eval_des": "동굴 내부에 관찰되는 쓰레기 제거 필요\n제주지역에 가장 깊은 수직동굴에 해당(희소성으로 인해 '다' 등급으로 상향)",
+    "eval_rank": "다"
+  },
+  "references": [
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "제주도 천연동굴 일제조사 보고서(문화재청, 2003)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "2",
+      "material_nm": "제주특별자치도 비지정 천연동굴 실태조사 용역 보고서(3차년, 제주특별자치도 세계유산본부, 2023)",
+      "pge": null
+    }
+  ]
+}

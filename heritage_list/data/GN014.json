@@ -1,0 +1,81 @@
+{
+  "survey_no": "GN014",
+  "survey_year": 2022,
+  "gch_nm": "남해 선구리 몽돌해안",
+  "survey_nm": "권창우, 김현철, 이태호",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "경남권",
+  "geolgc_map_nm": "서상",
+  "strk_sdp": "N32E/14SE",
+  "types": [
+    {
+      "code": "Lb003",
+      "des": "지형(자연지형_침식/퇴적작용)"
+    }
+  ],
+  "geolgc_age": "제4기",
+  "rrstv_rck": "자갈, 해빈",
+  "address": "경상남도 남해군 남면 선구리 681-5",
+  "lat_dms": "34°44′08.81″N",
+  "lon_dms": "127°51′37.93″E",
+  "cclt_scl": "유존지역 14,484㎡",
+  "rkfr_des": "이 지질유산은 양쪽으로 튀어나온 암석 사이에 발달한 오목한 지형 약 1km 길이의 몽돌 해안이 발달\n역들은 백악기 화강암, 퇴적암 그리고 화산암으로 구성\n현재 노출된 몽돌 해안만 유존지역으로 표시",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "한국의 지질유산 정보구축 및 관리방안(이수재, 2008)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "2",
+      "material_nm": "전국 지질유산 분포 및 현황조사(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "3",
+      "material_nm": "한국의 지질유산(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "4",
+      "material_nm": "전국자연환경조사보고서(환경부)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "5",
+      "material_nm": "한국의 지질노두 150선(한국지질자원연구원, 2004)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "6",
+      "material_nm": "한국의 지질노두 160선(한국지질자원연구원, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "7",
+      "material_nm": "한국의 지질다양성(문화재청, 2011, 2012, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "8",
+      "material_nm": "지형·지질 문화재 정밀조사 보고서(문화재청, 2008, 2009, 2010)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "9",
+      "material_nm": "지질·광물 문화재 정밀조사 보고서(문화재청, 2002, 2005, 2006, 2007)",
+      "pge": null
+    }
+  ]
+}

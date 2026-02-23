@@ -1,0 +1,87 @@
+{
+  "survey_no": "JN027",
+  "survey_year": 2024,
+  "gch_nm": "해남 예락리 백악기 호성저탁암층",
+  "survey_nm": "송교영, 진광민",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "전라남도 해남(전라권)",
+  "geolgc_map_nm": "우수영",
+  "strk_sdp": "N12°E/19°NW",
+  "types": [
+    {
+      "code": "Gc001",
+      "des": "지질(구조_퇴적작용)"
+    }
+  ],
+  "geolgc_age": "중생대 백악기",
+  "rrstv_rck": "응회질 실트스톤, 이암, 호성기원 저탁암",
+  "address": "전남 해남군 문내면 예락리 408-4",
+  "lat_dms": "34°36′45″N",
+  "lon_dms": "126°17′39″E",
+  "cclt_scl": "정밀발굴조사지역: 10,381.32 ㎡, 참관조사지역: 35,017.85 ㎡ (총면적: 45,399.18 ㎡)",
+  "rkfr_des": "해남 예락리 해안가에는 백악기 말 호성기원 저탁암층이 반복적으로 분포하며, 반복되는 퇴적층의 두께는 약 10 m 내외이다. 1929년 발간된 축척 1:5만 우수영도폭에서는 지질유산과 그 주변은 백악기 분류산성암층 산성분류암질 응회암이 분포되어 있는 것으로 보고하였으나, 지질유산 산출지와 그 남쪽의 해안가 주변은 호성기원 세립질 저탁암층이 분포하고 있다. 저탁암층의 주 구성암석은 응회질 실트스톤과 이암으로 호성기원 저탁암의 특성을 잘 관찰할 수 있다. 퇴적층의 주향은 북북동-남남서 방향이며 북서방향으로 약 20° 로 경사한다. 이 저탁암층의 성층면에는 연흔, 건열, 짐구조 등의 퇴적구조와 일부 지질구조들이 관찰된다. 즉, 일부 단면에서는 변형작용에 의해 형성된 반지구(half-graben) 구조와 습곡구조들이 발달한다. 또한 해안을 구성하는 자갈들은 모두 원마도가 낮은 저탁암층의 암석들로 구성되어 있다.",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "1",
+      "ordr": "1",
+      "material_nm": "Chang, T.S., 2012, Microcharacteristics of sustained, fine-grained lacustrine turbidites in the Cretaceous Hwangsan Tuff, SW Korea. Geosciences Journal, 16, 409-420.",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "한국의 지질유산 정보구축 및 관리방안(이수재, 2008)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "2",
+      "material_nm": "전국 지질유산 분포 및 현황조사(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "3",
+      "material_nm": "한국의 지질유산(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "4",
+      "material_nm": "전국자연환경조사보고서(환경부)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "5",
+      "material_nm": "한국의 지질노두 150선(한국지질자원연구원, 2004)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "6",
+      "material_nm": "한국의 지질노두 160선(한국지질자원연구원, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "7",
+      "material_nm": "한국의 지질다양성(문화재청, 2011, 2012, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "8",
+      "material_nm": "지형·지질 문화재 정밀조사 보고서(문화재청, 2008, 2009, 2010)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "9",
+      "material_nm": "지질·광물 문화재 정밀조사 보고서(문화재청, 2002, 2005, 2006, 2007)",
+      "pge": null
+    }
+  ]
+}

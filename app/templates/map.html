@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+
+{% block title %}전체 지도 — 지질유산 DB{% endblock %}
+
+{% block head_extra %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+    #fullmap { height: calc(100vh - 200px); min-height: 500px; }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2 class="mb-0">전체 지도</h2>
+    <span class="text-muted">{{ sites|length }}개 사이트</span>
+</div>
+<div id="fullmap" class="rounded border"></div>
+{% endblock %}
+
+{% block scripts %}
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+    var sites = {{ sites | tojson }};
+    var map = L.map('fullmap').setView([36.0, 128.0], 7);
+
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+
+    var bounds = [];
+    sites.forEach(function(s) {
+        var latlng = [s.LAT, s.LON];
+        bounds.push(latlng);
+        L.marker(latlng)
+            .addTo(map)
+            .bindPopup(
+                '<strong><a href="/heritage/' + s.SURVEY_NO + '">' +
+                (s.GCH_NM || s.SURVEY_NO) + '</a></strong>' +
+                (s.ty1_top_nm ? '<br><span class="badge bg-secondary">' + s.ty1_top_nm + '</span>' : '') +
+                (s.ADDRESS ? '<br><small>' + s.ADDRESS + '</small>' : '')
+            );
+    });
+
+    if (bounds.length > 0) {
+        map.fitBounds(bounds, { padding: [30, 30] });
+    }
+</script>
+{% endblock %}

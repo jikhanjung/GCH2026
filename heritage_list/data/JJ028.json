@@ -1,0 +1,59 @@
+{
+  "survey_no": "JJ028",
+  "survey_year": 2024,
+  "gch_nm": "제주 두모리 끌왓디굴",
+  "survey_nm": "이종희, 최문복, 유지훈, 홍정표",
+  "psitn": "사단법인 한국동굴연구소",
+  "cttpc": null,
+  "area_nm": "제주",
+  "geolgc_map_nm": null,
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "La001",
+      "des": "지형(동굴_화산활동작용)"
+    }
+  ],
+  "geolgc_age": "신생대 제4기",
+  "rrstv_rck": "광해악현무암",
+  "address": "제주특별자치도 제주시 한경면 두모리",
+  "lat_dms": "33°20′23.8″N",
+  "lon_dms": "126°12′18.7″E",
+  "cclt_scl": "매장유산(동굴)유존지역: 1,013.92㎡, 참관조사지역: 6,286.28㎡ (총면적: 7,300.20㎡)",
+  "rkfr_des": "동굴 상부에 도로 분포(아스팔트포장도로, 동굴의 끝부분에 분포)",
+  "cave": {
+    "ent_size": "1.6m × 0.6m(타원형)",
+    "length": "약 25m",
+    "type": "수평",
+    "ent_dir": "북동(NE)",
+    "direction": "북서(NW)와 남동(SE)",
+    "ungrd_water": "무",
+    "ent_water": "무",
+    "access": "한경면 두모리 633-2와 621-10의 경계에 설치된 석축과 돌담 하부에 위치",
+    "unkn_topo_des": null,
+    "unkn_topo_rank": null,
+    "prodt_des": null,
+    "prodt_rank": null,
+    "bio_des": "곤봉털띠노래기 등 19종",
+    "bio_rank": "다",
+    "prs_protect": "무",
+    "protect": "미설치",
+    "prsv_rank": "불량",
+    "eval_des": "동굴 내부에 관찰되는 쓰레기 제거 필요\n생물학적 등급이 '다' 등급으로 분류되어 종합평가 '다' 등급을 받은 동굴",
+    "eval_rank": "다"
+  },
+  "references": [
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "제주도 천연동굴 일제조사 보고서(문화재청, 2003)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "2",
+      "material_nm": "제주특별자치도 비지정 천연동굴 실태조사 용역 보고서(1차년, 제주특별자치도 세계유산본부, 2020)",
+      "pge": null
+    }
+  ]
+}

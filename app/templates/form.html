@@ -1,0 +1,310 @@
+{% extends "base.html" %}
+
+{% block title %}{{ '새로 등록' if is_new else '수정: ' + heritage.SURVEY_NO }} — 지질유산 DB{% endblock %}
+
+{% block content %}
+<nav aria-label="breadcrumb" class="mb-3">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="/">목록</a></li>
+        {% if not is_new %}
+        <li class="breadcrumb-item"><a href="/heritage/{{ heritage.SURVEY_NO }}">{{ heritage.SURVEY_NO }}</a></li>
+        <li class="breadcrumb-item active">수정</li>
+        {% else %}
+        <li class="breadcrumb-item active">새로 등록</li>
+        {% endif %}
+    </ol>
+</nav>
+
+<h2 class="mb-4">{{ '새로 등록' if is_new else '수정: ' + heritage.SURVEY_NO }}</h2>
+
+<form method="post" action="/heritage/save">
+    <input type="hidden" name="is_new" value="{{ '1' if is_new else '0' }}">
+
+    <!-- 기본 정보 -->
+    <div class="card mb-4">
+        <div class="card-header"><strong>기본 정보</strong></div>
+        <div class="card-body">
+            <div class="row g-3">
+                <div class="col-md-4">
+                    <label class="form-label">조사번호 <span class="text-danger">*</span></label>
+                    <input type="text" name="survey_no" class="form-control"
+                           value="{{ heritage.SURVEY_NO if heritage else '' }}"
+                           {{ 'readonly' if not is_new else '' }} required>
+                </div>
+                <div class="col-md-8">
+                    <label class="form-label">유산명</label>
+                    <input type="text" name="gch_nm" class="form-control"
+                           value="{{ heritage.GCH_NM if heritage and heritage.GCH_NM else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">조사자</label>
+                    <input type="text" name="survey_nm" class="form-control"
+                           value="{{ heritage.SURVEY_NM if heritage and heritage.SURVEY_NM else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">소속</label>
+                    <input type="text" name="psitn" class="form-control"
+                           value="{{ heritage.PSITN if heritage and heritage.PSITN else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">연락처</label>
+                    <input type="text" name="cttpc" class="form-control"
+                           value="{{ heritage.CTTPC if heritage and heritage.CTTPC else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">조사권역</label>
+                    <input type="text" name="area_nm" class="form-control"
+                           value="{{ heritage.AREA_NM if heritage and heritage.AREA_NM else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">지질도폭명</label>
+                    <input type="text" name="geolgc_map_nm" class="form-control"
+                           value="{{ heritage.GEOLGC_MAP_NM if heritage and heritage.GEOLGC_MAP_NM else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">주향/경사</label>
+                    <input type="text" name="strk_sdp" class="form-control"
+                           value="{{ heritage.STRK_SDP if heritage and heritage.STRK_SDP else '' }}">
+                </div>
+                <div class="col-md-6">
+                    <label class="form-label">지질시대</label>
+                    <input type="text" name="geolgc_age" class="form-control"
+                           value="{{ heritage.GEOLGC_AGE if heritage and heritage.GEOLGC_AGE else '' }}">
+                </div>
+                <div class="col-md-6">
+                    <label class="form-label">대표암석</label>
+                    <input type="text" name="rrstv_rck" class="form-control"
+                           value="{{ heritage.RRSTV_RCK if heritage and heritage.RRSTV_RCK else '' }}">
+                </div>
+                <div class="col-md-12">
+                    <label class="form-label">주소</label>
+                    <input type="text" name="address" class="form-control"
+                           value="{{ heritage.ADDRESS if heritage and heritage.ADDRESS else '' }}">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">위도</label>
+                    <input type="number" step="any" name="lat" class="form-control"
+                           value="{{ heritage.LAT if heritage and heritage.LAT else '' }}">
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">경도</label>
+                    <input type="number" step="any" name="lon" class="form-control"
+                           value="{{ heritage.LON if heritage and heritage.LON else '' }}">
+                </div>
+                <div class="col-md-6">
+                    <label class="form-label">규모</label>
+                    <input type="text" name="cclt_scl" class="form-control"
+                           value="{{ heritage.CCLT_SCL if heritage and heritage.CCLT_SCL else '' }}">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 분류 -->
+    <div class="card mb-4">
+        <div class="card-header"><strong>분류</strong></div>
+        <div class="card-body">
+            <div class="row g-3">
+                {% for n in [1, 2, 3] %}
+                {% set cd_field = 'TY' ~ n ~ '_CD' %}
+                {% set des_field = 'TY' ~ n ~ '_DES' %}
+                {% set cd_val = heritage[cd_field] if heritage and heritage[cd_field] else '' %}
+                {% set des_val = heritage[des_field] if heritage and heritage[des_field] else '' %}
+                <div class="col-md-4">
+                    <label class="form-label">유형 {{ n }} 코드</label>
+                    <select name="ty{{ n }}_cd" class="form-select">
+                        <option value="">-- 선택 --</option>
+                        {% for c in codes %}
+                        <option value="{{ c.CODE }}" {% if cd_val == c.CODE %}selected{% endif %}>
+                            {{ c.CODE }} — {{ c.CODE_NM }} ({{ c.TOP_CD_NM }}/{{ c.MID_CD_NM }})
+                        </option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="col-md-8">
+                    <label class="form-label">유형 {{ n }} 설명</label>
+                    <input type="text" name="ty{{ n }}_des" class="form-control" value="{{ des_val }}">
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <!-- 암석기재 -->
+    <div class="card mb-4">
+        <div class="card-header"><strong>암석기재</strong></div>
+        <div class="card-body">
+            <textarea name="rkfr_des" class="form-control" rows="5">{{ heritage.RKFR_DES if heritage and heritage.RKFR_DES else '' }}</textarea>
+        </div>
+    </div>
+
+    <!-- 동굴 정보 -->
+    <div class="card mb-4">
+        <div class="card-header d-flex justify-content-between align-items-center">
+            <strong>동굴 정보</strong>
+            <div class="form-check form-switch mb-0">
+                <input class="form-check-input" type="checkbox" id="hasCaveCheck" name="has_cave" value="1"
+                       {{ 'checked' if cave else '' }}
+                       onchange="document.getElementById('caveFields').style.display = this.checked ? '' : 'none'">
+                <label class="form-check-label" for="hasCaveCheck">동굴 데이터 포함</label>
+            </div>
+        </div>
+        <div class="card-body" id="caveFields" style="{{ '' if cave else 'display:none' }}">
+            <div class="row g-3">
+                {% set cv = cave %}
+                <div class="col-md-4">
+                    <label class="form-label">입구 크기</label>
+                    <input type="text" name="cave_ent_size" class="form-control"
+                           value="{{ cv.ENT_SIZE if cv and cv.ENT_SIZE else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">동굴 길이</label>
+                    <input type="text" name="cave_length" class="form-control"
+                           value="{{ cv.LENGTH if cv and cv.LENGTH else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">동굴 유형</label>
+                    <input type="text" name="cave_type" class="form-control"
+                           value="{{ cv.TYPE if cv and cv.TYPE else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">입구 방향</label>
+                    <input type="text" name="cave_ent_dir" class="form-control"
+                           value="{{ cv.ENT_DIR if cv and cv.ENT_DIR else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">연장 방향</label>
+                    <input type="text" name="cave_direction" class="form-control"
+                           value="{{ cv.DIRECTION if cv and cv.DIRECTION else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">지하수 유무</label>
+                    <input type="text" name="cave_ungrd_water" class="form-control"
+                           value="{{ cv.UNGRD_WATER if cv and cv.UNGRD_WATER else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">입구 용수</label>
+                    <input type="text" name="cave_ent_water" class="form-control"
+                           value="{{ cv.ENT_WATER if cv and cv.ENT_WATER else '' }}">
+                </div>
+                <div class="col-md-8">
+                    <label class="form-label">접근 방법</label>
+                    <input type="text" name="cave_access" class="form-control"
+                           value="{{ cv.ACCESS if cv and cv.ACCESS else '' }}">
+                </div>
+                <div class="col-md-8">
+                    <label class="form-label">미지형 기재</label>
+                    <input type="text" name="cave_unkn_topo_des" class="form-control"
+                           value="{{ cv.UNKN_TOPO_DES if cv and cv.UNKN_TOPO_DES else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">미지형 등급</label>
+                    <input type="text" name="cave_unkn_topo_rank" class="form-control"
+                           value="{{ cv.UNKN_TOPO_RANK if cv and cv.UNKN_TOPO_RANK else '' }}">
+                </div>
+                <div class="col-md-8">
+                    <label class="form-label">생성물 기재</label>
+                    <input type="text" name="cave_prodt_des" class="form-control"
+                           value="{{ cv.PRODT_DES if cv and cv.PRODT_DES else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">생성물 등급</label>
+                    <input type="text" name="cave_prodt_rank" class="form-control"
+                           value="{{ cv.PRODT_RANK if cv and cv.PRODT_RANK else '' }}">
+                </div>
+                <div class="col-md-8">
+                    <label class="form-label">생물상 기재</label>
+                    <input type="text" name="cave_bio_des" class="form-control"
+                           value="{{ cv.BIO_DES if cv and cv.BIO_DES else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">생물상 등급</label>
+                    <input type="text" name="cave_bio_rank" class="form-control"
+                           value="{{ cv.BIO_RANK if cv and cv.BIO_RANK else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">현재 보호시설</label>
+                    <input type="text" name="cave_prs_protect" class="form-control"
+                           value="{{ cv.PRS_PROTECT if cv and cv.PRS_PROTECT else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">보호시설</label>
+                    <input type="text" name="cave_protect" class="form-control"
+                           value="{{ cv.PROTECT if cv and cv.PROTECT else '' }}">
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">보존 등급</label>
+                    <input type="text" name="cave_prsv_rank" class="form-control"
+                           value="{{ cv.PRSV_RANK if cv and cv.PRSV_RANK else '' }}">
+                </div>
+                <div class="col-md-8">
+                    <label class="form-label">종합평가 기재</label>
+                    <textarea name="cave_eval_des" class="form-control" rows="2">{{ cv.EVAL_DES if cv and cv.EVAL_DES else '' }}</textarea>
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">종합평가 등급</label>
+                    <input type="text" name="cave_eval_rank" class="form-control"
+                           value="{{ cv.EVAL_RANK if cv and cv.EVAL_RANK else '' }}">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 참고문헌 -->
+    <div class="card mb-4">
+        <div class="card-header d-flex justify-content-between align-items-center">
+            <strong>참고문헌</strong>
+            <button type="button" class="btn btn-sm btn-outline-primary" onclick="addRefRow()">+ 행 추가</button>
+        </div>
+        <div class="card-body">
+            <table class="table table-sm align-middle" id="refTable">
+                <thead>
+                    <tr>
+                        <th style="width:100px">구분</th>
+                        <th style="width:80px">순서</th>
+                        <th>자료명</th>
+                        <th style="width:100px">페이지</th>
+                        <th style="width:50px"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for ref in references %}
+                    <tr>
+                        <td><input type="text" name="ref_group_gbn" class="form-control form-control-sm" value="{{ ref.GROUP_GBN or '' }}"></td>
+                        <td><input type="text" name="ref_ordr" class="form-control form-control-sm" value="{{ ref.ORDR or '' }}"></td>
+                        <td><input type="text" name="ref_material_nm" class="form-control form-control-sm" value="{{ ref.MATERIAL_NM or '' }}"></td>
+                        <td><input type="text" name="ref_pge" class="form-control form-control-sm" value="{{ ref.PGE or '' }}"></td>
+                        <td><button type="button" class="btn btn-sm btn-outline-danger" onclick="this.closest('tr').remove()">X</button></td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- 버튼 -->
+    <div class="d-flex gap-2">
+        <button type="submit" class="btn btn-primary">저장</button>
+        {% if not is_new %}
+        <a href="/heritage/{{ heritage.SURVEY_NO }}" class="btn btn-secondary">취소</a>
+        {% else %}
+        <a href="/" class="btn btn-secondary">취소</a>
+        {% endif %}
+    </div>
+</form>
+
+<script>
+function addRefRow() {
+    const tbody = document.querySelector('#refTable tbody');
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+        <td><input type="text" name="ref_group_gbn" class="form-control form-control-sm"></td>
+        <td><input type="text" name="ref_ordr" class="form-control form-control-sm"></td>
+        <td><input type="text" name="ref_material_nm" class="form-control form-control-sm"></td>
+        <td><input type="text" name="ref_pge" class="form-control form-control-sm"></td>
+        <td><button type="button" class="btn btn-sm btn-outline-danger" onclick="this.closest('tr').remove()">X</button></td>
+    `;
+    tbody.appendChild(tr);
+}
+</script>
+{% endblock %}

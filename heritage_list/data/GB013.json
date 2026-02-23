@@ -1,0 +1,57 @@
+{
+  "survey_no": "GB013",
+  "survey_year": 2022,
+  "gch_nm": "의성 만천리 백악기 공룡발자국화석산지",
+  "survey_nm": "고경태, 이승환",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "경상북도 의성",
+  "geolgc_map_nm": "군위",
+  "strk_sdp": "N55°E/32°SE",
+  "types": [
+    {
+      "code": "Fd001",
+      "des": "화석(생흔화석_생흔작용)"
+    }
+  ],
+  "geolgc_age": "백악기",
+  "rrstv_rck": "자색 이암 및 사암",
+  "address": "경상북도 의성군 만천리 930-5",
+  "lat_dms": "36°17′41.08″N",
+  "lon_dms": "128°41′44.55″E",
+  "cclt_scl": "정밀발굴조사지역: 618㎡, 표본조사지역: 27,439㎡ (총면적: 28,057㎡)",
+  "rkfr_des": "이 지역은 '의성 만천리 백악기 공룡발자국화석산지' 지질유산으로 명명되어 있음\n지질유산은 경상북도 의성군 만천리에 위치한 구릉지 사면에서 산출되며, 2마리 이상의 공룡들이 남긴 7개의 보행렬을 포함하여 총 114개의 발자국이 보존된 것으로 보고되어 있음\n최근 학술연구용역을 통해 수행된 결과가 국제학술지에 보고되었으며, 7개의 각기 다른 성층면에서 총 126개 공룡발자국과 8개의 보행렬을 보고 하였음\n공룡 발자국 화석 산출층은 붉은색 이암이 박층으로 피복된 얇은 층 내지 중간층 규모의 세립사암(사곡층)으로 층리의 자세는 N55°E/32°SE 임\n성층면에서는 연흔구조, 건열구조, 무척추동물의 다양한 생흔화석 등이 함께 관찰됨\n본 조사를 통해 3개의 보행렬을 인지하였으며, 하부층준에서 관찰된 가장 작은 크기를 보이는 공룡발자국의 보행렬은 N75°W 방향\n상부층준에서는 서로 다른 크기의 발자국 2개가 각기 다른 방향의 보행렬을 보이며 각각 N40°E 및 N20°E로 관찰되었음\n현재 주차장과 화석산지 해설표지판이 있으며, 탐방로가 개설되어 있어 접근이 용이함",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "1",
+      "ordr": "1",
+      "material_nm": "Lim JD, Kong DY, Kim SY, Kim TH, Nam SC. 2008. Discovery of the longest baby sauropod trackway from Korea. J Vertebr Paleontol. 28(3):106A",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "2",
+      "material_nm": "Lee, J. H., Lockley, M. G., Jung, S., Ha, Y., Cho, K. R., Lim, J. D., & Kim, K. S. (2022). Dinosaur tracksites from the Cretaceous Sagok Formation in the Uiseong Regional Geopark, South Korea: historical, palaeobiological perspectives. Historical Biology, 1-9.",
+      "pge": null
+    },
+    {
+      "group_gbn": "2",
+      "ordr": "1",
+      "material_nm": "천연기념물 화석산지 모니터링 조사 보고서, 2008, 국립문화재연구소, 194 p.",
+      "pge": null
+    },
+    {
+      "group_gbn": "2",
+      "ordr": "2",
+      "material_nm": "백인성, 김현주, 강희철 외, 천연기념물 중생대 화석산지 보존방안 연구보고서, 2012, 문화재청, 320 p.",
+      "pge": null
+    },
+    {
+      "group_gbn": "3",
+      "ordr": "1",
+      "material_nm": "정기홍, 이윤종, 박병권, 1981, 한국지질도(1:50,000), 군위도폭 및 설명서, 한국동력자원연구소, 20 p.",
+      "pge": null
+    }
+  ]
+}

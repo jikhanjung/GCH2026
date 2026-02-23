@@ -1,0 +1,838 @@
+# survey_no -> image -> title
+BS001	->	extracted_images/BS001/BS001_001.jp2	->	지질문화재 분포지도 구축 기본계획 수립 및 연구(2년차)
+BS001	->	extracted_images/BS001/BS001_002.jp2	->	사진 및 설명
+BS001	->	extracted_images/BS001/BS001_003.jp2	->	드론촬영 이미지로 표시한 분포지도
+BS001	->	extracted_images/BS001/BS001_004.jp2	->	(제목 미추출)
+BS001	->	extracted_images/BS001/BS001_005.jp2	->	(제목 미추출)
+BS002	->	extracted_images/BS002/BS002_001.jp2	->	지질문화재 분포지도 구축 기본계획 수립 및 연구(2년차)
+BS003	->	extracted_images/BS003/BS003_001.jp2	->	지질문화재 분포지도 구축 기본계획 수립 및 연구(2년차)
+BS003	->	extracted_images/BS003/BS003_002.jp2	->	사진 및 설명
+BS004	->	extracted_images/BS004/BS004_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+BS004	->	extracted_images/BS004/BS004_002.jpg	->	사진 및 설명
+BS004	->	extracted_images/BS004/BS004_003.jpg	->	공룡발자국 전경 이암 내 석회질 단괴(붉은색)
+BS004	->	extracted_images/BS004/BS004_004.jpg	->	(제목 미추출)
+CB001	->	extracted_images/CB001/CB001_001.jpg	->	사진 및 설명
+CB001	->	extracted_images/CB001/CB001_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+CB001	->	extracted_images/CB001/CB001_003.jpg	->	사진 1. 도로절개면에 발달하는 전체 노두 전경
+CB001	->	extracted_images/CB001/CB001_004.jpg	->	사진 2. 층리 사진 3. 습곡 및 단층 구조
+CB001	->	extracted_images/CB001/CB001_005.jpg	->	사진 및 설명
+CB001	->	extracted_images/CB001/CB001_006.jpg	->	사진 4. 습곡 및 관입 구조 사진 5. 석회암 근접 사진
+CB002	->	extracted_images/CB002/CB002_001.jpg	->	사진 및 설명
+CB002	->	extracted_images/CB002/CB002_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+CB002	->	extracted_images/CB002/CB002_003.jpg	->	사진 1. 금월봉 석회암 전경
+CB002	->	extracted_images/CB002/CB002_004.jpg	->	사진 2. 석회암 노두 사진 3. 석회암 층리 근접 사진
+CB002	->	extracted_images/CB002/CB002_005.jpg	->	사진 및 설명
+CB002	->	extracted_images/CB002/CB002_006.jpg	->	사진 4. 석회암 내 파랑습곡 사진 5. 석회암 내 퇴적 및 변형구조
+CB003	->	extracted_images/CB003/CB003_001.jpg	->	사진 및 설명
+CB003	->	extracted_images/CB003/CB003_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+CB003	->	extracted_images/CB003/CB003_003.jpg	->	사진 1. 옥화리 용소 전경
+CB003	->	extracted_images/CB003/CB003_004.jpg	->	사진 2. 측면부 전경 사진 3. 습곡과 소규모 용식구조
+CB003	->	extracted_images/CB003/CB003_005.jpg	->	사진 및 설명
+CB003	->	extracted_images/CB003/CB003_006.jpg	->	사진 4. 서측 습곡 사진 5. 동측 습곡
+CB004	->	extracted_images/CB004/CB004_001.jpg	->	사진 및 설명 드론촬영 이미지로 표시한 분포지도
+CB004	->	extracted_images/CB004/CB004_002.jpg	->	사진 1. 노두 전경 사진 2. 노두 확대 사진
+CB004	->	extracted_images/CB004/CB004_003.jpg	->	사진 3. 유기물을 다량 함유한 셰일-점판암 사진 4. 지층 내 협재하는 석탄
+CB004	->	extracted_images/CB004/CB004_004.jpg	->	(제목 미추출)
+CB004	->	extracted_images/CB004/CB004_005.jpg	->	(제목 미추출)
+CB005	->	extracted_images/CB005/CB005_001.jpg	->	사진 및 설명 드론촬영 이미지로 표시한 분포지도
+CB005	->	extracted_images/CB005/CB005_002.jpg	->	사진 1. 서측 사면 노두 전경 사진 2. 남측 사면 노두
+CB005	->	extracted_images/CB005/CB005_003.jpg	->	사진 3. 변성이암 확대 사진 사진 4. 신장된 석회암 역
+CB005	->	extracted_images/CB005/CB005_004.jpg	->	(제목 미추출)
+CB005	->	extracted_images/CB005/CB005_005.jpg	->	(제목 미추출)
+CB006	->	extracted_images/CB006/CB006_001.jpg	->	지질유산 분포지도(지형도)
+CB006	->	extracted_images/CB006/CB006_002.jpg	->	사진 및 설명
+CB006	->	extracted_images/CB006/CB006_003.jpg	->	사진 1. 둠범개동굴의 입구1(외부→내부 방향 촬영) 사진 2. 둠범개동굴의 입구2(내부→외부 방향 촬영)
+CB006	->	extracted_images/CB006/CB006_004.jpg	->	사진 3. 통로1 사진 4. 통로2
+CB006	->	extracted_images/CB006/CB006_005.jpg	->	(제목 미추출)
+CB006	->	extracted_images/CB006/CB006_006.jpg	->	(제목 미추출)
+CB007	->	extracted_images/CB007/CB007_005.jpg	->	지질유산 분포지도(지형도)
+CB007	->	extracted_images/CB007/CB007_006.jpg	->	사진 및 설명
+CB007	->	extracted_images/CB007/CB007_007.jpg	->	사진 1. 성내리동굴의 입구
+CB007	->	extracted_images/CB007/CB007_008.jpg	->	사진 2. 동굴 내 관찰되는 동굴생성물
+CB007	->	extracted_images/CB007/CB007_001.jpg	->	지질유산 분포지도(지형도)
+CB007	->	extracted_images/CB007/CB007_002.jpg	->	사진 및 설명
+CB007	->	extracted_images/CB007/CB007_003.jpg	->	사진 1. 성내리동굴의 입구
+CB007	->	extracted_images/CB007/CB007_004.jpg	->	사진 2. 동굴 내 관찰되는 동굴생성물
+CN001	->	extracted_images/CN001/CN001_001.jpg	->	사진 및 설명 드론촬영 이미지로 표시한 분포지도
+CN001	->	extracted_images/CN001/CN001_002.jpg	->	사진 1. 지질유산 노두 전경 사진 2. 대리암과 협재하는 각섬암
+CN001	->	extracted_images/CN001/CN001_003.jpg	->	사진 3. 조립 결정질의 석회암 조직 사진 4. 지질유산 일부를 가리고 설치된 구조물
+CN001	->	extracted_images/CN001/CN001_004.jpg	->	(제목 미추출)
+CN001	->	extracted_images/CN001/CN001_005.jpg	->	(제목 미추출)
+CN002	->	extracted_images/CN002/CN002_001.jpg	->	사진 및 설명 드론촬영 이미지로 표시한 분포지도
+CN002	->	extracted_images/CN002/CN002_002.jpg	->	사진 1. 지층 경계부 노두 사진 2. 지층 경계부 확대사진 및 단층
+CN002	->	extracted_images/CN002/CN002_003.jpg	->	사진 3. 역질 사암 및 역암부 사진 4. 세립사암-셰일부
+CN002	->	extracted_images/CN002/CN002_004.jpg	->	(제목 미추출)
+CN002	->	extracted_images/CN002/CN002_005.jpg	->	(제목 미추출)
+CN003	->	extracted_images/CN003/CN003_001.jpg	->	사진 및 설명 드론촬영 이미지로 표시한 분포지도
+CN003	->	extracted_images/CN003/CN003_002.jpg	->	사진 1. 지질유산 노두 전경 사진 2. 화석산출 노두 측면의 층리
+CN003	->	extracted_images/CN003/CN003_003.jpg	->	사진 3. 흑색 셰일 암상 사진 4. 쥐라기 식물화석
+CN003	->	extracted_images/CN003/CN003_004.jpg	->	(제목 미추출)
+CN003	->	extracted_images/CN003/CN003_005.jpg	->	(제목 미추출)
+CN004	->	extracted_images/CN004/CN004_001.jpg	->	사진 및 설명 드론촬영 이미지로 표시한 분포지도
+CN004	->	extracted_images/CN004/CN004_002.jpg	->	사진 1. 다사리 사구 원경 사진 2. 해안사구 중경
+CN004	->	extracted_images/CN004/CN004_003.jpg	->	사진 3. 사구 유실 방지 목적으로 설치된 목책 사진 4. 사구 사면에 식재된 해당화와 상부 산책로
+CN004	->	extracted_images/CN004/CN004_004.jpg	->	(제목 미추출)
+CN004	->	extracted_images/CN004/CN004_005.jpg	->	(제목 미추출)
+CN005	->	extracted_images/CN005/CN005_001.jpg	->	사진 및 설명 드론촬영 이미지로 표시한 분포지도
+CN005	->	extracted_images/CN005/CN005_002.jpg	->	사진 1. 현무암 노두 사진 2. 노두 확대 사진
+CN005	->	extracted_images/CN005/CN005_003.jpg	->	사진 3. 암석의 조직 사진 4. 지질유산 일부를 가리고 설치된 구조물
+CN005	->	extracted_images/CN005/CN005_004.jpg	->	(제목 미추출)
+CN005	->	extracted_images/CN005/CN005_005.jpg	->	(제목 미추출)
+CN006	->	extracted_images/CN006/CN006_001.jpg	->	사진 및 설명 드론촬영 이미지로 표시한 분포지도
+CN006	->	extracted_images/CN006/CN006_002.jpg	->	사진 1. 지질유산 전경 사진 2. 지질유산 전경
+CN006	->	extracted_images/CN006/CN006_003.jpg	->	사진 3. 변성이질암 확대 사진 사진 4. 이질암 내 발달하는 석류석
+CN006	->	extracted_images/CN006/CN006_004.jpg	->	(제목 미추출)
+CN006	->	extracted_images/CN006/CN006_005.jpg	->	(제목 미추출)
+CN007	->	extracted_images/CN007/CN007_001.jpg	->	사진 및 설명 드론촬영 이미지로 표시한 분포지도
+CN007	->	extracted_images/CN007/CN007_002.jpg	->	사진 1. 한삼천리 변성퇴적암 전경
+CN007	->	extracted_images/CN007/CN007_003.jpg	->	사진 2. 노두 정면 사진 3. 노두 측면
+CN007	->	extracted_images/CN007/CN007_004.jpg	->	(제목 미추출)
+CN007	->	extracted_images/CN007/CN007_005.jpg	->	사진 및 설명
+CN007	->	extracted_images/CN007/CN007_006.jpg	->	사진 4. 양호하게 보존된 퇴적구조 사진 5. 양호하게 보존된 퇴적구조
+DG001	->	extracted_images/DG001/DG001_001.jp2	->	지질문화재 분포지도 구축 기본계획 수립 및 연구(2년차)
+DG001	->	extracted_images/DG001/DG001_002.jp2	->	사진 및 설명
+DG002	->	extracted_images/DG002/DG002_001.jp2	->	지질문화재 분포지도 구축 기본계획 수립 및 연구(2년차)
+GB001	->	extracted_images/GB001/GB001_001.jpg	->	지질문화재 분포지도 구축 기본계획 수립 및 연구(2년차)
+GB001	->	extracted_images/GB001/GB001_002.jp2	->	사진 및 설명
+GB001	->	extracted_images/GB001/GB001_003.jp2	->	드론촬영 이미지로 표시한 분포지도
+GB001	->	extracted_images/GB001/GB001_004.jp2	->	사진 1. 데사이트질 화산력응회암 내 탄화목편 사진 2. 이암 내 식물화석
+GB001	->	extracted_images/GB001/GB001_005.jp2	->	지질문화재 분포지도 구축 기본계획 수립 및 연구(2년차)
+GB001	->	extracted_images/GB001/GB001_006.jp2	->	사진 및 설명
+GB002	->	extracted_images/GB002/GB002_001.jp2	->	지질문화재 분포지도 구축 기본계획 수립 및 연구(2년차)
+GB002	->	extracted_images/GB002/GB002_002.jp2	->	사진 및 설명
+GB003	->	extracted_images/GB003/GB003_001.jpg	->	사진 및 설명
+GB003	->	extracted_images/GB003/GB003_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB003	->	extracted_images/GB003/GB003_003.jpg	->	사진 1. 조사지역 전경 사진 2. 화석사진
+GB004	->	extracted_images/GB004/GB004_001.jpg	->	사진 및 설명
+GB004	->	extracted_images/GB004/GB004_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB004	->	extracted_images/GB004/GB004_003.jpg	->	사진 1. 조사지역 전경 사진 2. 주상절리 발달 노두사진
+GB005	->	extracted_images/GB005/GB005_001.jpg	->	사진 및 설명
+GB005	->	extracted_images/GB005/GB005_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB005	->	extracted_images/GB005/GB005_003.jpg	->	사진 2. 오도리 주상절리 원경 사진 3. 오도리 주상절리를 구성하는 현무암 근경
+GB005	->	extracted_images/GB005/GB005_004.jpg	->	(제목 미추출)
+GB006	->	extracted_images/GB006/GB006_001.jpg	->	사진 및 설명
+GB006	->	extracted_images/GB006/GB006_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB006	->	extracted_images/GB006/GB006_003.jpg	->	사진 1. 주상절리가 관찰되는 절개사면과 낙석 현장사진 사진 2. 괴상의 응회암(좌)과의 접촉 경계부
+GB007	->	extracted_images/GB007/GB007_001.jpg	->	사진 및 설명
+GB007	->	extracted_images/GB007/GB007_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB007	->	extracted_images/GB007/GB007_003.jpg	->	사진 1. 구룡포 주상절리 설명 표지판 사진 2. 주상절리 전경
+GB008	->	extracted_images/GB008/GB008_001.jpg	->	사진 및 설명
+GB008	->	extracted_images/GB008/GB008_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB008	->	extracted_images/GB008/GB008_003.jpg	->	사진 1. 장사해수욕장 남쪽에 발달하는 사구 사진 2. 장사해수욕장을 구성하는 해빈
+GB008	->	extracted_images/GB008/GB008_004.jpg	->	사진 3. 식생이 발달한 사구 사진 4. 장사상륙작전 전승기념공원
+GB008	->	extracted_images/GB008/GB008_005.jpg	->	(제목 미추출)
+GB009	->	extracted_images/GB009/GB009_001.jpg	->	사진 및 설명
+GB009	->	extracted_images/GB009/GB009_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB009	->	extracted_images/GB009/GB009_003.jpg	->	사진 1. 식생으로 피복되고 낙석이 발생한 노두 사진 2. 백악기 퇴적암과 암맥의 관입경계
+GB010	->	extracted_images/GB010/GB010_001.jpg	->	사진 및 설명
+GB010	->	extracted_images/GB010/GB010_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB010	->	extracted_images/GB010/GB010_003.jpg	->	사진 1. 신령단층 단층대 노두 전경 사진 2. 신령단층 단층대 핵
+GB011	->	extracted_images/GB011/GB011_001.jpg	->	사진 및 설명
+GB011	->	extracted_images/GB011/GB011_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB011	->	extracted_images/GB011/GB011_003.jpg	->	사진 1. 만불사 내 절개지 노두 전경 사진 2. 채약산층 내 발달하는 방해석 세맥
+GB012	->	extracted_images/GB012/GB012_001.jpg	->	사진 및 설명
+GB012	->	extracted_images/GB012/GB012_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB012	->	extracted_images/GB012/GB012_003.jpg	->	사진 1. 호서성습지 전경 사진 2. 출입통제 중인 습지 산책로
+GB012	->	extracted_images/GB012/GB012_004.jpg	->	사진 3. 차량통행로로 사용되고 있는 자연제방 사진 4. 농경지로 활용되고 있는 배후습지
+GB012	->	extracted_images/GB012/GB012_005.jpg	->	(제목 미추출)
+GB013	->	extracted_images/GB013/GB013_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB013	->	extracted_images/GB013/GB013_002.jpg	->	사진 및 설명
+GB013	->	extracted_images/GB013/GB013_003.jpg	->	사진 1. 노두전경 사진 2. 최하부층의 공룡발자국 보행렬
+GB013	->	extracted_images/GB013/GB013_004.jpg	->	사진 3. 성층면에서 관찰되는 연흔 사진 4. 화석산지 해설표지판과 탐방로
+GB013	->	extracted_images/GB013/GB013_005.jpg	->	(제목 미추출)
+GB014	->	extracted_images/GB014/GB014_001.jpg	->	사진 및 설명
+GB014	->	extracted_images/GB014/GB014_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB014	->	extracted_images/GB014/GB014_003.jpg	->	사진 1. 노두 전경 사진 2. 성층면에서 관찰되는 조개화석(빨간색 표시)
+GB015	->	extracted_images/GB015/GB015_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB015	->	extracted_images/GB015/GB015_002.jpg	->	사진 및 설명
+GB015	->	extracted_images/GB015/GB015_003.jpg	->	(제목 미추출)
+GB015	->	extracted_images/GB015/GB015_004.jpg	->	(제목 미추출)
+GB015	->	extracted_images/GB015/GB015_005.jpg	->	(제목 미추출)
+GB015	->	extracted_images/GB015/GB015_006.jpg	->	(제목 미추출)
+GB016	->	extracted_images/GB016/GB016_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB016	->	extracted_images/GB016/GB016_002.jpg	->	사진 및 설명
+GB016	->	extracted_images/GB016/GB016_003.jpg	->	스트로마톨라이트 분포 노두 전경 스트로마톨라이트 분포 노두 전경
+GB016	->	extracted_images/GB016/GB016_004.jpg	->	(제목 미추출)
+GB016	->	extracted_images/GB016/GB016_005.jpg	->	(제목 미추출)
+GB016	->	extracted_images/GB016/GB016_006.jpg	->	(제목 미추출)
+GB016	->	extracted_images/GB016/GB016_007.jpg	->	(제목 미추출)
+GB016	->	extracted_images/GB016/GB016_008.jpg	->	(제목 미추출)
+GB017	->	extracted_images/GB017/GB017_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB017	->	extracted_images/GB017/GB017_002.jpg	->	사진 및 설명
+GB017	->	extracted_images/GB017/GB017_003.jpg	->	누룩바위 노두 드론 전경 누룩바위 노두 전경
+GB017	->	extracted_images/GB017/GB017_004.jpg	->	누륵바위 노두 원경 누룩바위 노두 전경 및 산책로
+GB017	->	extracted_images/GB017/GB017_005.jpg	->	(제목 미추출)
+GB017	->	extracted_images/GB017/GB017_006.jpg	->	(제목 미추출)
+GB017	->	extracted_images/GB017/GB017_007.jpg	->	(제목 미추출)
+GB017	->	extracted_images/GB017/GB017_008.jpg	->	(제목 미추출)
+GB017	->	extracted_images/GB017/GB017_009.jpg	->	(제목 미추출)
+GB017	->	extracted_images/GB017/GB017_010.jpg	->	(제목 미추출)
+GB018	->	extracted_images/GB018/GB018_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB018	->	extracted_images/GB018/GB018_002.jpg	->	사진 및 설명
+GB018	->	extracted_images/GB018/GB018_003.jpg	->	거대건열구조 노두 전경 거대건열구조 노두 전경
+GB018	->	extracted_images/GB018/GB018_004.jpg	->	(제목 미추출)
+GB018	->	extracted_images/GB018/GB018_005.jpg	->	(제목 미추출)
+GB018	->	extracted_images/GB018/GB018_006.jpg	->	(제목 미추출)
+GB018	->	extracted_images/GB018/GB018_007.jpg	->	(제목 미추출)
+GB018	->	extracted_images/GB018/GB018_008.jpg	->	(제목 미추출)
+GB018	->	extracted_images/GB018/GB018_009.jpg	->	(제목 미추출)
+GB018	->	extracted_images/GB018/GB018_010.jpg	->	(제목 미추출)
+GB019	->	extracted_images/GB019/GB019_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB019	->	extracted_images/GB019/GB019_002.jpg	->	사진 및 설명
+GB019	->	extracted_images/GB019/GB019_003.jpg	->	도계동층 노두 드론 전경 도계동층 노두 전경
+GB019	->	extracted_images/GB019/GB019_004.jpg	->	(제목 미추출)
+GB019	->	extracted_images/GB019/GB019_005.jpg	->	(제목 미추출)
+GB019	->	extracted_images/GB019/GB019_006.jpg	->	(제목 미추출)
+GB019	->	extracted_images/GB019/GB019_007.jpg	->	(제목 미추출)
+GB019	->	extracted_images/GB019/GB019_008.jpg	->	(제목 미추출)
+GB019	->	extracted_images/GB019/GB019_009.jpg	->	(제목 미추출)
+GB019	->	extracted_images/GB019/GB019_010.jpg	->	(제목 미추출)
+GB020	->	extracted_images/GB020/GB020_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB020	->	extracted_images/GB020/GB020_002.jpg	->	사진 및 설명
+GB020	->	extracted_images/GB020/GB020_003.jpg	->	지질유산 전경
+GB020	->	extracted_images/GB020/GB020_004.jpg	->	노두 전경 노두 전경
+GB020	->	extracted_images/GB020/GB020_005.jpg	->	(제목 미추출)
+GB021	->	extracted_images/GB021/GB021_001.jpg	->	사진 및 설명
+GB021	->	extracted_images/GB021/GB021_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB021	->	extracted_images/GB021/GB021_003.jpg	->	단층대 노두 전경
+GB022	->	extracted_images/GB022/GB022_001.jpg	->	사진 및 설명
+GB022	->	extracted_images/GB022/GB022_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB023	->	extracted_images/GB023/GB023_001.jpg	->	사진 및 설명 드론촬영 이미지로 표시한 분포지도
+GB023	->	extracted_images/GB023/GB023_002.jpg	->	불의 공원 전경
+GB023	->	extracted_images/GB023/GB023_003.jpg	->	(제목 미추출)
+GB023	->	extracted_images/GB023/GB023_004.jpg	->	(제목 미추출)
+GB023	->	extracted_images/GB023/GB023_005.jpg	->	(제목 미추출)
+GB024	->	extracted_images/GB024/GB024_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB024	->	extracted_images/GB024/GB024_002.jpg	->	사진 및 설명
+GB024	->	extracted_images/GB024/GB024_003.jpg	->	출입통제 중인 포항 성동리 장기층군 나무화석 지질유산 전경
+GB024	->	extracted_images/GB024/GB024_004.jpg	->	나무화석 사진 나무화석이 산출되는 장기층군 현무암질 화산암(용암류)
+GB024	->	extracted_images/GB024/GB024_005.jpg	->	(제목 미추출)
+GB025	->	extracted_images/GB025/GB025_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB025	->	extracted_images/GB025/GB025_002.jpg	->	사진 및 설명
+GB025	->	extracted_images/GB025/GB025_003.jpg	->	뚜께바위 전경
+GB025	->	extracted_images/GB025/GB025_004.jpg	->	(제목 미추출)
+GB025	->	extracted_images/GB025/GB025_005.jpg	->	(제목 미추출)
+GB026	->	extracted_images/GB026/GB026_001.jpg	->	사진 및 설명
+GB026	->	extracted_images/GB026/GB026_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB026	->	extracted_images/GB026/GB026_003.jpg	->	무섬마을 포인트바 지질유산 전경
+GB026	->	extracted_images/GB026/GB026_004.jpg	->	사진 및 설명
+GB026	->	extracted_images/GB026/GB026_005.jpg	->	(제목 미추출)
+GB027	->	extracted_images/GB027/GB027_001.jpg	->	사진 및 설명
+GB027	->	extracted_images/GB027/GB027_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB027	->	extracted_images/GB027/GB027_003.jpg	->	선바위 전경 남이포의 해식애 전경
+GB027	->	extracted_images/GB027/GB027_004.jpg	->	(제목 미추출)
+GB027	->	extracted_images/GB027/GB027_005.jpg	->	(제목 미추출)
+GB027	->	extracted_images/GB027/GB027_006.jpg	->	(제목 미추출)
+GB027	->	extracted_images/GB027/GB027_007.jpg	->	(제목 미추출)
+GB027	->	extracted_images/GB027/GB027_008.jpg	->	(제목 미추출)
+GB027	->	extracted_images/GB027/GB027_009.jpg	->	(제목 미추출)
+GB028	->	extracted_images/GB028/GB028_001.jpg	->	사진 및 설명
+GB028	->	extracted_images/GB028/GB028_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB028	->	extracted_images/GB028/GB028_003.jpg	->	오십봉 현무암 노두 전경 사진
+GB028	->	extracted_images/GB028/GB028_004.jpg	->	사진 및 설명
+GB029	->	extracted_images/GB029/GB029_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB029	->	extracted_images/GB029/GB029_002.jpg	->	사진 및 설명
+GB029	->	extracted_images/GB029/GB029_003.jpg	->	지질유산 전경 지질유산 전경 및 설명 안내문
+GB029	->	extracted_images/GB029/GB029_004.jpg	->	(제목 미추출)
+GB029	->	extracted_images/GB029/GB029_005.jpg	->	(제목 미추출)
+GB029	->	extracted_images/GB029/GB029_006.jpg	->	(제목 미추출)
+GB030	->	extracted_images/GB030/GB030_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB030	->	extracted_images/GB030/GB030_002.jpg	->	사진 및 설명
+GB030	->	extracted_images/GB030/GB030_003.jpg	->	지질유산 전경 상부층준 공룡발자국 화석(화살표 참조)
+GB030	->	extracted_images/GB030/GB030_004.jpg	->	(제목 미추출)
+GB030	->	extracted_images/GB030/GB030_005.jpg	->	(제목 미추출)
+GB030	->	extracted_images/GB030/GB030_006.jpg	->	(제목 미추출)
+GB031	->	extracted_images/GB031/GB031_001.jpg	->	사진 및 설명
+GB031	->	extracted_images/GB031/GB031_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB031	->	extracted_images/GB031/GB031_003.jpg	->	화강섬록암 노두 전경
+GB032	->	extracted_images/GB032/GB032_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB032	->	extracted_images/GB032/GB032_002.jpg	->	사진 및 설명
+GB032	->	extracted_images/GB032/GB032_003.jpg	->	경천대 전망대 전경 경천대 전망대 전경
+GB032	->	extracted_images/GB032/GB032_004.jpg	->	(제목 미추출)
+GB032	->	extracted_images/GB032/GB032_005.jpg	->	(제목 미추출)
+GB032	->	extracted_images/GB032/GB032_006.jpg	->	(제목 미추출)
+GB032	->	extracted_images/GB032/GB032_007.jpg	->	(제목 미추출)
+GB032	->	extracted_images/GB032/GB032_008.jpg	->	(제목 미추출)
+GB032	->	extracted_images/GB032/GB032_009.jpg	->	(제목 미추출)
+GB032	->	extracted_images/GB032/GB032_010.jpg	->	(제목 미추출)
+GB032	->	extracted_images/GB032/GB032_011.jpg	->	(제목 미추출)
+GB033	->	extracted_images/GB033/GB033_001.jpg	->	사진 및 설명
+GB033	->	extracted_images/GB033/GB033_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB033	->	extracted_images/GB033/GB033_003.jpg	->	지질유산 노두 전경
+GB034	->	extracted_images/GB034/GB034_001.jpg	->	사진 및 설명
+GB034	->	extracted_images/GB034/GB034_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GB034	->	extracted_images/GB034/GB034_003.jpg	->	안동 광덕리 초염기성암 에코올리빈광산 전경
+GG001	->	extracted_images/GG001/GG001_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GG001	->	extracted_images/GG001/GG001_002.jpg	->	(제목 미추출)
+GG001	->	extracted_images/GG001/GG001_003.jpg	->	(제목 미추출)
+GN005	->	extracted_images/GN005/GN005_001.jpg	->	지질문화재 분포지도 구축 기본계획 수립 및 연구(2년차)
+GN005	->	extracted_images/GN005/GN005_002.jp2	->	지질문화재 분포지도 구축 기본계획 수립 및 연구(2년차)
+GN006	->	extracted_images/GN006/GN006_001.jpg	->	지질문화재 분포지도 구축 기본계획 수립 및 연구(2년차)
+GN006	->	extracted_images/GN006/GN006_002.jp2	->	지질문화재 분포지도 구축 기본계획 수립 및 연구(2년차)
+GN006	->	extracted_images/GN006/GN006_003.jp2	->	사진 1. 조사지역 전경. 밀물 때 화석산지는 바닷물에 잠김.
+GN007	->	extracted_images/GN007/GN007_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN007	->	extracted_images/GN007/GN007_006.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN007	->	extracted_images/GN007/GN007_002.jpg	->	사진 및 설명
+GN007	->	extracted_images/GN007/GN007_007.jpg	->	사진 및 설명
+GN007	->	extracted_images/GN007/GN007_003.jpg	->	발자국화석 산출 층준(노란색 사각 박스)은 중성암맥의 관입에 의해 단절되어 있음
+GN007	->	extracted_images/GN007/GN007_008.jpg	->	발자국화석 산출 층준(노란색 사각 박스)은 중성암맥의 관입에 의해 단절되어 있음
+GN007	->	extracted_images/GN007/GN007_004.jpg	->	공룡발자국과 새발자국 화석 산출 위치 새발자국 화석 사진
+GN007	->	extracted_images/GN007/GN007_009.jpg	->	공룡발자국과 새발자국 화석 산출 위치 새발자국 화석 사진
+GN007	->	extracted_images/GN007/GN007_005.jpg	->	(제목 미추출)
+GN007	->	extracted_images/GN007/GN007_010.jpg	->	(제목 미추출)
+GN008	->	extracted_images/GN008/GN008_001.jpg	->	사진 및 설명
+GN008	->	extracted_images/GN008/GN008_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN009	->	extracted_images/GN009/GN009_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN009	->	extracted_images/GN009/GN009_002.jpg	->	사진 및 설명
+GN009	->	extracted_images/GN009/GN009_003.jpg	->	북동방향 보행열의 공룡발자국 화석 전경 북서방향 보행력 공룡발자국 화석 근접 사진
+GN009	->	extracted_images/GN009/GN009_004.jpg	->	(제목 미추출)
+GN010	->	extracted_images/GN010/GN010_001.jpg	->	사진 및 설명
+GN010	->	extracted_images/GN010/GN010_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN010	->	extracted_images/GN010/GN010_003.jpg	->	문호장 발자국 사당건물 뒤편의 공룡발자국 산출 층준은 공
+GN011	->	extracted_images/GN011/GN011_001.jpg	->	사진 및 설명
+GN011	->	extracted_images/GN011/GN011_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN011	->	extracted_images/GN011/GN011_003.jpg	->	공룡발자국 전경 안내판
+GN012	->	extracted_images/GN012/GN012_001.jpg	->	사진 및 설명
+GN012	->	extracted_images/GN012/GN012_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN013	->	extracted_images/GN013/GN013_001.jpg	->	사진 및 설명
+GN013	->	extracted_images/GN013/GN013_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN014	->	extracted_images/GN014/GN014_001.jpg	->	사진 및 설명
+GN015	->	extracted_images/GN015/GN015_001.jpg	->	사진 및 설명 드론촬영 이미지로 표시한 분포지도
+GN015	->	extracted_images/GN015/GN015_002.jpg	->	노두 전경
+GN015	->	extracted_images/GN015/GN015_003.jpg	->	(제목 미추출)
+GN015	->	extracted_images/GN015/GN015_004.jpg	->	(제목 미추출)
+GN016	->	extracted_images/GN016/GN016_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN016	->	extracted_images/GN016/GN016_002.jpg	->	사진 및 설명
+GN016	->	extracted_images/GN016/GN016_003.jpg	->	공룡발자국 층준 단면도
+GN016	->	extracted_images/GN016/GN016_004.jpg	->	공룡발자국 사진 건열 사진
+GN016	->	extracted_images/GN016/GN016_005.jpg	->	(제목 미추출)
+GN017	->	extracted_images/GN017/GN017_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN017	->	extracted_images/GN017/GN017_002.jpg	->	사진 및 설명
+GN017	->	extracted_images/GN017/GN017_003.jpg	->	(제목 미추출)
+GN017	->	extracted_images/GN017/GN017_004.jpg	->	(제목 미추출)
+GN018	->	extracted_images/GN018/GN018_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN018	->	extracted_images/GN018/GN018_002.jpg	->	지질유산 산출지 전경
+GN018	->	extracted_images/GN018/GN018_003.jpg	->	사진 및 설명
+GN018	->	extracted_images/GN018/GN018_004.jpg	->	(제목 미추출)
+GN018	->	extracted_images/GN018/GN018_005.jpg	->	(제목 미추출)
+GN018	->	extracted_images/GN018/GN018_006.jpg	->	(제목 미추출)
+GN018	->	extracted_images/GN018/GN018_007.jpg	->	(제목 미추출)
+GN018	->	extracted_images/GN018/GN018_008.jpg	->	(제목 미추출)
+GN018	->	extracted_images/GN018/GN018_009.jpg	->	(제목 미추출)
+GN019	->	extracted_images/GN019/GN019_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN019	->	extracted_images/GN019/GN019_002.jpg	->	사진 및 설명
+GN019	->	extracted_images/GN019/GN019_003.jpg	->	(제목 미추출)
+GN019	->	extracted_images/GN019/GN019_004.jpg	->	(제목 미추출)
+GN020	->	extracted_images/GN020/GN020_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN020	->	extracted_images/GN020/GN020_002.jpg	->	사진 및 설명
+GN020	->	extracted_images/GN020/GN020_003.jpg	->	지질유산 산출지 전경
+GN020	->	extracted_images/GN020/GN020_004.jpg	->	(제목 미추출)
+GN020	->	extracted_images/GN020/GN020_005.jpg	->	(제목 미추출)
+GN020	->	extracted_images/GN020/GN020_006.jpg	->	(제목 미추출)
+GN020	->	extracted_images/GN020/GN020_007.jpg	->	(제목 미추출)
+GN020	->	extracted_images/GN020/GN020_008.jpg	->	(제목 미추출)
+GN020	->	extracted_images/GN020/GN020_009.jpg	->	(제목 미추출)
+GN020	->	extracted_images/GN020/GN020_010.jpg	->	(제목 미추출)
+GN021	->	extracted_images/GN021/GN021_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN021	->	extracted_images/GN021/GN021_002.png	->	사진 및 설명
+GN021	->	extracted_images/GN021/GN021_003.png	->	(좌) 삼태선착장 북쪽 지질유산 산출지 전경. (우) 사각박스 확대. 3개의 서로 다른 층준(흰색 원과 점선)
+GN021	->	extracted_images/GN021/GN021_004.jpg	->	에서 공룡발자국 화석이 산출됨. 공룡발자국 화석은 굴에 덮혀있어 훼손이 심함
+GN021	->	extracted_images/GN021/GN021_005.jpg	->	삼태선착장 남쪽 공룡발자국 화석 산출지(붉은색 원)
+GN021	->	extracted_images/GN021/GN021_006.jpg	->	(제목 미추출)
+GN022	->	extracted_images/GN022/GN022_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN022	->	extracted_images/GN022/GN022_002.jpg	->	사진 및 설명
+GN023	->	extracted_images/GN023/GN023_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN023	->	extracted_images/GN023/GN023_002.jpg	->	사진 및 설명
+GN023	->	extracted_images/GN023/GN023_003.jpg	->	(제목 미추출)
+GN023	->	extracted_images/GN023/GN023_004.jpg	->	(제목 미추출)
+GN023	->	extracted_images/GN023/GN023_005.jpg	->	(제목 미추출)
+GN024	->	extracted_images/GN024/GN024_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN024	->	extracted_images/GN024/GN024_002.jpg	->	사진 및 설명
+GN024	->	extracted_images/GN024/GN024_003.jpg	->	지질유산 산출지 전경. 화석산지 층준은 비닐 막에 의해 덮혀있음
+GN024	->	extracted_images/GN024/GN024_004.jpg	->	(제목 미추출)
+GN025	->	extracted_images/GN025/GN025_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN025	->	extracted_images/GN025/GN025_002.jpg	->	사진 및 설명
+GN025	->	extracted_images/GN025/GN025_003.jpg	->	(제목 미추출)
+GN025	->	extracted_images/GN025/GN025_004.jpg	->	(제목 미추출)
+GN025	->	extracted_images/GN025/GN025_005.jpg	->	(제목 미추출)
+GN026	->	extracted_images/GN026/GN026_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN026	->	extracted_images/GN026/GN026_002.jpg	->	사진 및 설명
+GN026	->	extracted_images/GN026/GN026_003.jpg	->	공룡발자국 화석 전경 연흔
+GN026	->	extracted_images/GN026/GN026_004.jpg	->	(제목 미추출)
+GN026	->	extracted_images/GN026/GN026_005.jpg	->	(제목 미추출)
+GN027	->	extracted_images/GN027/GN027_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN027	->	extracted_images/GN027/GN027_002.jpg	->	사진 및 설명
+GN027	->	extracted_images/GN027/GN027_003.jpg	->	지질유산 산출지 전경. 척추동물 발자국 화석은 현재 이전 조치 완료되어 없는 상태
+GN027	->	extracted_images/GN027/GN027_004.jpg	->	(제목 미추출)
+GN028	->	extracted_images/GN028/GN028_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN028	->	extracted_images/GN028/GN028_002.jpg	->	(좌) 공사전 지질유산 전경. (우) 공룡발자국 화석
+GN028	->	extracted_images/GN028/GN028_003.jpg	->	사진 및 설명
+GN028	->	extracted_images/GN028/GN028_004.jpg	->	조사 당시 지질유산 산출지 전경. 공사로 인해 지질유산 유실
+GN028	->	extracted_images/GN028/GN028_005.jpg	->	(제목 미추출)
+GN028	->	extracted_images/GN028/GN028_006.jpg	->	(제목 미추출)
+GN028	->	extracted_images/GN028/GN028_007.jpg	->	(제목 미추출)
+GN029	->	extracted_images/GN029/GN029_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN030	->	extracted_images/GN030/GN030_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN030	->	extracted_images/GN030/GN030_002.jpg	->	사진 및 설명
+GN030	->	extracted_images/GN030/GN030_003.jpg	->	(제목 미추출)
+GN030	->	extracted_images/GN030/GN030_004.jpg	->	지질유산 전경 및 운석충돌구 관광안내소내 전시된 충격각력암 노두
+GN030	->	extracted_images/GN030/GN030_005.jpg	->	(제목 미추출)
+GN030	->	extracted_images/GN030/GN030_006.jpg	->	(제목 미추출)
+GN031	->	extracted_images/GN031/GN031_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN031	->	extracted_images/GN031/GN031_002.jpg	->	사진 및 설명
+GN032	->	extracted_images/GN032/GN032_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN032	->	extracted_images/GN032/GN032_002.jpg	->	사진 및 설명
+GN032	->	extracted_images/GN032/GN032_003.jpg	->	지질유산 전경
+GN032	->	extracted_images/GN032/GN032_004.jpg	->	(제목 미추출)
+GN032	->	extracted_images/GN032/GN032_005.jpg	->	(제목 미추출)
+GN033	->	extracted_images/GN033/GN033_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN033	->	extracted_images/GN033/GN033_002.jpg	->	사진 및 설명
+GN033	->	extracted_images/GN033/GN033_003.jpg	->	지질유산 전경
+GN034	->	extracted_images/GN034/GN034_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN034	->	extracted_images/GN034/GN034_002.jpg	->	지질유산 산출지 전경
+GN034	->	extracted_images/GN034/GN034_003.jpg	->	사진 및 설명
+GN034	->	extracted_images/GN034/GN034_004.jpg	->	해안가 휘록암 전석 전경 휘록암 근접 사진
+GN034	->	extracted_images/GN034/GN034_005.jpg	->	(제목 미추출)
+GN034	->	extracted_images/GN034/GN034_006.jpg	->	(제목 미추출)
+GN035	->	extracted_images/GN035/GN035_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN035	->	extracted_images/GN035/GN035_002.jpg	->	사진 및 설명
+GN035	->	extracted_images/GN035/GN035_003.jpg	->	지질유산 산출지 전경
+GN036	->	extracted_images/GN036/GN036_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN036	->	extracted_images/GN036/GN036_002.jpg	->	사진 및 설명
+GN036	->	extracted_images/GN036/GN036_003.jpg	->	지질유산 산출지 전경
+GN037	->	extracted_images/GN037/GN037_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN037	->	extracted_images/GN037/GN037_002.jpg	->	사진 및 설명
+GN037	->	extracted_images/GN037/GN037_003.jpg	->	지질유산 전경
+GN037	->	extracted_images/GN037/GN037_004.jpg	->	(제목 미추출)
+GN037	->	extracted_images/GN037/GN037_005.jpg	->	(제목 미추출)
+GN037	->	extracted_images/GN037/GN037_006.jpg	->	(제목 미추출)
+GN037	->	extracted_images/GN037/GN037_007.jpg	->	(제목 미추출)
+GN037	->	extracted_images/GN037/GN037_008.jpg	->	섬장암 노두 사진 섬장암 근접 사진
+GN037	->	extracted_images/GN037/GN037_009.jpg	->	(제목 미추출)
+GN037	->	extracted_images/GN037/GN037_010.jpg	->	(제목 미추출)
+GN037	->	extracted_images/GN037/GN037_011.jpg	->	(제목 미추출)
+GN038	->	extracted_images/GN038/GN038_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GN038	->	extracted_images/GN038/GN038_002.jpg	->	사진 및 설명
+GW001	->	extracted_images/GW001/GW001_001.jp2	->	지질문화재 분포지도 구축 기본계획 수립 및 연구(2년차)
+GW001	->	extracted_images/GW001/GW001_002.jp2	->	동굴분포도
+GW001	->	extracted_images/GW001/GW001_003.jp2	->	사진 및 설명
+GW001	->	extracted_images/GW001/GW001_004.jp2	->	사진 1. 임곡동굴의 입구 사진 2. 백색의 대형 석순군락
+GW001	->	extracted_images/GW001/GW001_005.jpg	->	사진 3. 곡석과 종유관 사진 4. 호수
+GW002	->	extracted_images/GW002/GW002_001.jpg	->	사진 및 설명
+GW002	->	extracted_images/GW002/GW002_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GW002	->	extracted_images/GW002/GW002_003.jpg	->	사진 및 설명
+GW003	->	extracted_images/GW003/GW003_001.jpg	->	지질유산 분포지도(지형도)
+GW003	->	extracted_images/GW003/GW003_002.jpg	->	사진 및 설명
+GW003	->	extracted_images/GW003/GW003_003.jpg	->	사진 1. 문개실굴의 입구1(외부→내부 방향 촬영) 사진 2. 문개실굴의 입구2(내부→외부 방향 촬영)
+GW004	->	extracted_images/GW004/GW004_001.jpg	->	지질유산 분포지도(지형도)
+GW004	->	extracted_images/GW004/GW004_002.jpg	->	사진 및 설명
+GW004	->	extracted_images/GW004/GW004_003.jpg	->	사진 1. 귤암리긴굴의 입구1(외부→내부 방향 촬영) 사진 2. 귤암리긴굴의 입구2(내부→외부 방향 촬영)
+GW004	->	extracted_images/GW004/GW004_004.jpg	->	사진 3. 통로1 사진 4. 통로2
+GW004	->	extracted_images/GW004/GW004_005.jpg	->	영월댐 수몰지 동굴 세부조사 보고서(강원대학교, 1999)
+GW005	->	extracted_images/GW005/GW005_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GW005	->	extracted_images/GW005/GW005_002.jpg	->	사진 및 설명
+GW005	->	extracted_images/GW005/GW005_003.jpg	->	(제목 미추출)
+GW005	->	extracted_images/GW005/GW005_004.jpg	->	(제목 미추출)
+GW006	->	extracted_images/GW006/GW006_001.jpg	->	사진 및 설명
+GW006	->	extracted_images/GW006/GW006_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+GW006	->	extracted_images/GW006/GW006_003.jpg	->	(제목 미추출)
+GW007	->	extracted_images/GW007/GW007_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GW007	->	extracted_images/GW007/GW007_002.jpg	->	사진 및 설명
+GW007	->	extracted_images/GW007/GW007_003.jpg	->	정선석회암 노두 근접사진 정선석회암 내 방해석 광맥
+GW007	->	extracted_images/GW007/GW007_004.jpg	->	(제목 미추출)
+GW008	->	extracted_images/GW008/GW008_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GW008	->	extracted_images/GW008/GW008_002.jpg	->	각섬석 반려암 노두 사진 호상편마암을 관입한 거정질 페그마타이트 암맥
+GW009	->	extracted_images/GW009/GW009_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GW009	->	extracted_images/GW009/GW009_002.jpg	->	고원생대 미그마타이트질 흑운모편마암 노두사진 촛대바위를 구성하는 쥐라기 석영맥 노두사진
+GW010	->	extracted_images/GW010/GW010_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+GW010	->	extracted_images/GW010/GW010_002.jpg	->	사진 및 설명
+GW010	->	extracted_images/GW010/GW010_003.jpg	->	이창진, 1990, 강원도 영월군 북면 밤치부근 밤치층에서 산출된 페
+GW010	->	extracted_images/GW010/GW010_004.jpg	->	(제목 미추출)
+GW011	->	extracted_images/GW011/GW011_001.jpg	->	사진 및 설명
+GW011	->	extracted_images/GW011/GW011_002.jpg	->	(제목 미추출)
+GW012	->	extracted_images/GW012/GW012_001.jpg	->	사진 및 설명 드론촬영 이미지로 표시한 분포지도
+GW012	->	extracted_images/GW012/GW012_002.jpg	->	태백 문곡동 동고층의 사층리 지질유산 노두 전경
+GW012	->	extracted_images/GW012/GW012_003.jpg	->	정점이층리 노두 사진 사층리 노두 사진
+GW012	->	extracted_images/GW012/GW012_004.jpg	->	(제목 미추출)
+GW013	->	extracted_images/GW013/GW013_001.jpg	->	사진 및 설명 드론촬영 이미지로 표시한 분포지도
+GW013	->	extracted_images/GW013/GW013_002.jpg	->	(제목 미추출)
+GW013	->	extracted_images/GW013/GW013_003.jpg	->	(제목 미추출)
+GW014	->	extracted_images/GW014/GW014_001.jpg	->	지질유산 분포지도(지형도)
+GW014	->	extracted_images/GW014/GW014_002.jpg	->	사진 및 설명
+GW014	->	extracted_images/GW014/GW014_003.jpg	->	사진 1. 창밭골동굴의 입구 전경
+GW014	->	extracted_images/GW014/GW014_004.jpg	->	사진 2. 동굴 내 관찰되는 동굴생성물
+GW015	->	extracted_images/GW015/GW015_001.jpg	->	지질유산 분포지도(지형도)
+GW015	->	extracted_images/GW015/GW015_002.jpg	->	사진 및 설명
+GW015	->	extracted_images/GW015/GW015_003.jpg	->	사진 1. 창밭골피난동굴의 입구 전경
+GW015	->	extracted_images/GW015/GW015_004.jpg	->	사진 2. 동굴 내 관찰되는 미지형
+JB003	->	extracted_images/JB003/JB003_001.jpg	->	사진 및 설명
+JB003	->	extracted_images/JB003/JB003_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+JB003	->	extracted_images/JB003/JB003_003.jpg	->	사진 1. 노두 전경 사진 2. 식물화석
+JB004	->	extracted_images/JB004/JB004_001.jpg	->	사진 및 설명
+JB004	->	extracted_images/JB004/JB004_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+JB004	->	extracted_images/JB004/JB004_003.jpg	->	사진 1. 노두 전경 사진 2. 층리구조
+JB005	->	extracted_images/JB005/JB005_001.jpg	->	사진 및 설명
+JB005	->	extracted_images/JB005/JB005_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+JB005	->	extracted_images/JB005/JB005_003.jpg	->	사진 1. 노두 전경 사진 2. 복운모화강암
+JB006	->	extracted_images/JB006/JB006_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JB006	->	extracted_images/JB006/JB006_002.jpg	->	사진 및 설명
+JB006	->	extracted_images/JB006/JB006_003.jpg	->	사진 1. 노두 전경 사진 2. 화강암 노두사진
+JB006	->	extracted_images/JB006/JB006_004.jpg	->	(제목 미추출)
+JB006	->	extracted_images/JB006/JB006_005.jpg	->	(제목 미추출)
+JB007	->	extracted_images/JB007/JB007_001.jpg	->	사진 및 설명
+JB007	->	extracted_images/JB007/JB007_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+JB007	->	extracted_images/JB007/JB007_003.jpg	->	사진 1. 노두 전경 사진 2. 압쇄화강암 노두
+JB008	->	extracted_images/JB008/JB008_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JB008	->	extracted_images/JB008/JB008_002.jpg	->	사진 및 설명
+JB008	->	extracted_images/JB008/JB008_003.jpg	->	사진 1. 노두 원경 사진 2. 노두 전경
+JB008	->	extracted_images/JB008/JB008_004.jpg	->	(제목 미추출)
+JB008	->	extracted_images/JB008/JB008_005.jpg	->	(제목 미추출)
+JB009	->	extracted_images/JB009/JB009_001.jpg	->	사진 및 설명
+JB009	->	extracted_images/JB009/JB009_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+JB009	->	extracted_images/JB009/JB009_003.jpg	->	사진 1. 노두 원경 사진 2. 확대사진
+JB010	->	extracted_images/JB010/JB010_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JB010	->	extracted_images/JB010/JB010_002.jpg	->	사진 및 설명
+JB010	->	extracted_images/JB010/JB010_003.jpg	->	사진 1. 직선상으로 이어지는 해빈 전경 사진 2. 해빈 남단(구시포항 부근)
+JB010	->	extracted_images/JB010/JB010_004.jpg	->	사진 3. 해빈 전면부에 나타나는 현생 연흔 사진 4. 해빈 후면부의 사구와 식생
+JB010	->	extracted_images/JB010/JB010_005.jpg	->	(제목 미추출)
+JB011	->	extracted_images/JB011/JB011_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JB011	->	extracted_images/JB011/JB011_002.jpg	->	사진 및 설명
+JB011	->	extracted_images/JB011/JB011_003.jpg	->	사진 1. 층리가 뚜렷하게 발달하는 절벽 사진 2. 하상노두
+JB011	->	extracted_images/JB011/JB011_004.jpg	->	사진 3. 다양한 역들이 입자지지조직을 보이는 부분 사진 4. mm 단위의 작은 역과 모래로 구성되는 부분
+JB011	->	extracted_images/JB011/JB011_005.jpg	->	(제목 미추출)
+JB012	->	extracted_images/JB012/JB012_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JB012	->	extracted_images/JB012/JB012_002.jpg	->	사진 및 설명
+JB012	->	extracted_images/JB012/JB012_003.jpg	->	사진 1. 기반암과 각섬변성암이 나타나는 하상노두 사진 2. 도로변에 노출된 노두
+JB012	->	extracted_images/JB012/JB012_004.jpg	->	사진 3. 각섬변성암의 일반적인 조직 사진 4. 돌솥 제조에 사용되고 있는 각섬변성암
+JB012	->	extracted_images/JB012/JB012_005.jpg	->	(제목 미추출)
+JB013	->	extracted_images/JB013/JB013_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JB013	->	extracted_images/JB013/JB013_002.jpg	->	사진 및 설명
+JB013	->	extracted_images/JB013/JB013_003.jpg	->	지질유산의 전경 수직의 엽리와 습곡구조
+JB013	->	extracted_images/JB013/JB013_004.jpg	->	(제목 미추출)
+JB013	->	extracted_images/JB013/JB013_005.jpg	->	(제목 미추출)
+JB014	->	extracted_images/JB014/JB014_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JB014	->	extracted_images/JB014/JB014_002.jpg	->	사진 및 설명
+JB014	->	extracted_images/JB014/JB014_003.jpg	->	지질유산의 일부 전경 초압쇄암과 전단감각 지시자
+JB014	->	extracted_images/JB014/JB014_004.jpg	->	(제목 미추출)
+JB014	->	extracted_images/JB014/JB014_005.jpg	->	(제목 미추출)
+JB015	->	extracted_images/JB015/JB015_001.jpg	->	사진 및 설명
+JB015	->	extracted_images/JB015/JB015_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+JB015	->	extracted_images/JB015/JB015_003.jpg	->	지질유산의 일부 전경 백악기 규장반암으로 구성된 상사봉
+JJ006	->	extracted_images/JJ006/JJ006_001.jp2	->	지질문화재 분포지도 구축 기본계획 수립 및 연구(2년차)
+JJ006	->	extracted_images/JJ006/JJ006_002.jp2	->	동굴분포도
+JJ006	->	extracted_images/JJ006/JJ006_003.jpg	->	사진 및 설명
+JJ006	->	extracted_images/JJ006/JJ006_004.jpg	->	사진 1. 김녕신산동굴의 입구 사진 2. 수로구간(해수+담수)
+JJ006	->	extracted_images/JJ006/JJ006_005.jpg	->	사진 3. 건열구조(물 속) 사진 4. 용암종유와 표면의 탄산염광물
+JJ006	->	extracted_images/JJ006/JJ006_006.jp2	->	(제목 미추출)
+JJ006	->	extracted_images/JJ006/JJ006_007.jp2	->	(제목 미추출)
+JJ006	->	extracted_images/JJ006/JJ006_008.jpg	->	지질문화재 분포지도 구축 기본계획 수립 및 연구(2년차)
+JJ006	->	extracted_images/JJ006/JJ006_009.jpg	->	2) 강릉 임곡동굴{대분류_중분류_소분류: 지형_동굴_용식(석회암)작용}
+JJ006	->	extracted_images/JJ006/JJ006_010.jpg	->	강릉 임곡동굴은 광산 개발 도중에 발견된 석회암동굴로 강동면 임곡리 409-1에 위치한다. 임곡동
+JJ006	->	extracted_images/JJ006/JJ006_011.jpg	->	굴은 다양한 동굴생성물의 발달과 순백색의 대형석순 군락, 다양한 형태의 종유석, 유석, 베이컨시트
+JJ006	->	extracted_images/JJ006/JJ006_012.jp2	->	등 동굴생성물이 원형 그대로 잘 보존되어 있다(그림 5-14). 특히, 희소성이 높은 곡석과 석화의
+JJ006	->	extracted_images/JJ006/JJ006_013.jpg	->	[그림 5-14] 강릉 임곡동굴 내 발달하는 다양한 종류의 동굴생성물
+JJ006	->	extracted_images/JJ006/JJ006_014.jp2	->	강릉 임곡동굴은 동굴의 특수성(좁은 통로, 수직, 수로, 호수, 침니 구간 등)과 예산범위 등을 고려
+JJ006	->	extracted_images/JJ006/JJ006_015.jp2	->	하여 동굴측량(간이 평판측량 방식)을 실시하여 지질문화재 정밀발굴조사지역(유존지역-산출면적:
+JJ007	->	extracted_images/JJ007/JJ007_001.jpg	->	지질문화재 분포지도(지형도)
+JJ007	->	extracted_images/JJ007/JJ007_002.jpg	->	사진 및 설명
+JJ007	->	extracted_images/JJ007/JJ007_003.jpg	->	사진 1. 옥산이굴의 입구 사진 2. 분기통로
+JJ007	->	extracted_images/JJ007/JJ007_004.jpg	->	사진 3. 대형낙반지대 내 통로 사진 4. 동굴-속-동굴
+JJ007	->	extracted_images/JJ007/JJ007_005.jpg	->	제주특별자치도 비지정 천연동굴 실태조사 용역 보고서(1차년; 제주특별자치도 세계유산본부, 2020)
+JJ008	->	extracted_images/JJ008/JJ008_001.jpg	->	지질유산 분포지도(지형도)
+JJ008	->	extracted_images/JJ008/JJ008_002.jpg	->	사진 및 설명
+JJ008	->	extracted_images/JJ008/JJ008_003.jpg	->	사진 1. 새못사거리동굴의 입구 사진 2. 내부통로
+JJ008	->	extracted_images/JJ008/JJ008_004.jpg	->	사진 3. 내부통로 사진 4. 용암석순
+JJ008	->	extracted_images/JJ008/JJ008_005.jpg	->	제주특별자치도 비지정 천연동굴 실태조사 용역 보고서(2차년; 제주특별자치도 세계유산본부, 2020)
+JJ009	->	extracted_images/JJ009/JJ009_001.jpg	->	·특히 동굴이 분포하는 협재2길 도로하부의 구간에 대해서는 속도제한, 안내표시 등이 필요
+JJ009	->	extracted_images/JJ009/JJ009_002.jpg	->	지질유산 분포지도(항공사진)
+JJ009	->	extracted_images/JJ009/JJ009_003.jpg	->	사진 1. 건지굴1의 4입구(천장창; 외부→내부 방향 촬영) 사진 2. 건지굴1의 3입구(천장창; 내부→외부 방향 촬영)
+JJ010	->	extracted_images/JJ010/JJ010_001.jpg	->	지질유산 분포지도(지형도)
+JJ010	->	extracted_images/JJ010/JJ010_002.jpg	->	사진 및 설명
+JJ010	->	extracted_images/JJ010/JJ010_003.jpg	->	사진 1. 남서방향 통로의 입구 사진 2. 북동방향 통로의 입구(내부→외부 방향 촬영)
+JJ010	->	extracted_images/JJ010/JJ010_004.jpg	->	사진 3. 동굴 내 낙석구간 사진 4. 동굴 내부로 유입된 해안사구(탄산염퇴적물)
+JJ011	->	extracted_images/JJ011/JJ011_001.jpg	->	지질유산 분포지도(지형도)
+JJ011	->	extracted_images/JJ011/JJ011_002.jpg	->	사진 및 설명
+JJ011	->	extracted_images/JJ011/JJ011_003.jpg	->	사진 1. 어음2리동굴1의 입구(맨홀) 사진 2. 통로1
+JJ011	->	extracted_images/JJ011/JJ011_004.jpg	->	사진 3. 통로2 사진 4. 동물뼈
+JJ011	->	extracted_images/JJ011/JJ011_005.jpg	->	제주특별자치도 비지정 천연동굴 실태조사 용역 보고서(2차년; 제주특별자치도 세계유산본부, 2020)
+JJ011	->	extracted_images/JJ011/JJ011_006.jpg	->	(제목 미추출)
+JJ012	->	extracted_images/JJ012/JJ012_001.jpg	->	지질유산 분포지도(지형도)
+JJ012	->	extracted_images/JJ012/JJ012_002.jpg	->	사진 및 설명
+JJ012	->	extracted_images/JJ012/JJ012_003.jpg	->	사진 1. 게웃샘굴의 1입구 사진 2. 게웃샘굴의 2입구
+JJ012	->	extracted_images/JJ012/JJ012_004.jpg	->	사진 3. 통로(2입구→1입구 방향) 사진 4. 통로(2입구→하류 방향)
+JJ012	->	extracted_images/JJ012/JJ012_005.jpg	->	제주도 천연동굴 일제조사 보고서(문화재청, 2003)
+JJ013	->	extracted_images/JJ013/JJ013_001.jpg	->	지질유산 분포지도(지형도)
+JJ013	->	extracted_images/JJ013/JJ013_002.jpg	->	사진 및 설명
+JJ013	->	extracted_images/JJ013/JJ013_003.jpg	->	사진 1. 남문동굴의 1입구 사진 2. 남문동굴의 2입구
+JJ014	->	extracted_images/JJ014/JJ014_001.jpg	->	지질유산 분포지도(지형도)
+JJ014	->	extracted_images/JJ014/JJ014_002.jpg	->	사진 및 설명
+JJ015	->	extracted_images/JJ015/JJ015_001.png	->	·‘다’등급(문화재자료적 가치): 정밀학술조사를 통한 상향등급 변화 가능, 용암동굴계
+JJ015	->	extracted_images/JJ015/JJ015_002.png	->	지질유산 분포지도(지형도)
+JJ015	->	extracted_images/JJ015/JJ015_003.jpg	->	사진 1. 팔자굴의 입구 전경
+JJ015	->	extracted_images/JJ015/JJ015_004.jpg	->	사진 2. 팔자굴 통로 사진 3. 팔자굴 하류구간의 마지막 지점
+JJ015	->	extracted_images/JJ015/JJ015_005.jpg	->	제주특별자치도 비지정 천연동굴 실태조사 용역 보고서(1차년; 제주특별자치도 세계유산본부, 2020)
+JJ016	->	extracted_images/JJ016/JJ016_001.png	->	지질유산 분포지도(지형도)
+JJ016	->	extracted_images/JJ016/JJ016_002.png	->	사진 및 설명
+JJ016	->	extracted_images/JJ016/JJ016_003.jpg	->	사진 1. 베락맞은오름동굴의 2입구와 3입구(천장창 구조) 사진 2. 단백석으로 추정되는 동굴산호
+JJ016	->	extracted_images/JJ016/JJ016_004.jpg	->	사진 3. 동굴 내부에서 관찰되는 돌담과 동물뼈
+JJ016	->	extracted_images/JJ016/JJ016_005.jpg	->	(제목 미추출)
+JJ017	->	extracted_images/JJ017/JJ017_001.png	->	지질유산 분포지도(지형도)
+JJ017	->	extracted_images/JJ017/JJ017_002.png	->	사진 및 설명
+JJ017	->	extracted_images/JJ017/JJ017_003.jpg	->	사진 1. 명월성굴의 입구
+JJ017	->	extracted_images/JJ017/JJ017_004.jpg	->	사진 2. 내부통로 사진 3. 내부통로(다층구조)
+JJ017	->	extracted_images/JJ017/JJ017_005.jpg	->	(제목 미추출)
+JJ018	->	extracted_images/JJ018/JJ018_001.png	->	지질유산 분포지도(지형도)
+JJ018	->	extracted_images/JJ018/JJ018_002.png	->	사진 및 설명
+JJ018	->	extracted_images/JJ018/JJ018_003.jpg	->	사진 1. 군남빌레못굴1의 입구
+JJ018	->	extracted_images/JJ018/JJ018_004.jpg	->	사진 2. 내부통로 사진 3. 내부통로
+JJ018	->	extracted_images/JJ018/JJ018_005.jpg	->	제주특별자치도 비지정 천연동굴 실태조사 용역 보고서(1차년; 제주특별자치도 세계유산본부, 2020)
+JJ019	->	extracted_images/JJ019/JJ019_001.jpg	->	지질유산 분포지도(지형도)
+JJ019	->	extracted_images/JJ019/JJ019_002.png	->	사진 및 설명
+JJ019	->	extracted_images/JJ019/JJ019_003.jpg	->	사진 1. 김녕빌레못굴1의 입구
+JJ019	->	extracted_images/JJ019/JJ019_004.jpg	->	사진 2. 용결낙반 사진 3. 천장창(2입구)
+JJ019	->	extracted_images/JJ019/JJ019_005.jpg	->	제주도 천연동굴 일제조사 보고서(문화재청, 2003)
+JJ020	->	extracted_images/JJ020/JJ020_001.png	->	지질유산 분포지도(지형도)
+JJ020	->	extracted_images/JJ020/JJ020_002.png	->	사진 및 설명
+JJ020	->	extracted_images/JJ020/JJ020_003.jpg	->	사진 1. 신당동굴의 입구
+JJ020	->	extracted_images/JJ020/JJ020_004.jpg	->	사진 2. 내부통로 사진 3. 용암종유
+JJ020	->	extracted_images/JJ020/JJ020_005.jpg	->	제주특별자치도 비지정 천연동굴 실태조사 용역 보고서(2차년; 제주특별자치도 세계유산본부, 2020)
+JJ021	->	extracted_images/JJ021/JJ021_001.png	->	지질유산 분포지도(지형도)
+JJ021	->	extracted_images/JJ021/JJ021_002.png	->	사진 및 설명
+JJ021	->	extracted_images/JJ021/JJ021_003.jpg	->	사진 1. 어음리동굴의 입구
+JJ021	->	extracted_images/JJ021/JJ021_004.jpg	->	사진 2. 내부통로1 사진 3. 내부통로2
+JJ021	->	extracted_images/JJ021/JJ021_005.jpg	->	(제목 미추출)
+JJ022	->	extracted_images/JJ022/JJ022_001.png	->	지질유산 분포지도(지형도)
+JJ022	->	extracted_images/JJ022/JJ022_002.png	->	사진 및 설명
+JJ022	->	extracted_images/JJ022/JJ022_003.jpg	->	사진 1. 고산리동굴의 입구 사진 2. 내부통로1
+JJ022	->	extracted_images/JJ022/JJ022_004.jpg	->	사진 3. 내부통로2 사진 4. 이번 조사 기간 중 새롭게 발견된 구간의 입구
+JJ022	->	extracted_images/JJ022/JJ022_005.jpg	->	제주특별자치도 비지정 천연동굴 실태조사 용역 보고서(1차년; 제주특별자치도 세계유산본부, 2020)
+JJ022	->	extracted_images/JJ022/JJ022_006.jpg	->	(제목 미추출)
+JJ023	->	extracted_images/JJ023/JJ023_001.png	->	지질유산 분포지도(지형도)
+JJ023	->	extracted_images/JJ023/JJ023_002.png	->	사진 및 설명
+JJ023	->	extracted_images/JJ023/JJ023_003.jpg	->	사진 1. 굽은오름서굴의 입구 사진 2. 내부통로
+JJ023	->	extracted_images/JJ023/JJ023_004.jpg	->	사진 3. 용암종유 사진 4. 용결낙반
+JJ023	->	extracted_images/JJ023/JJ023_005.jpg	->	제주특별자치도 비지정 천연동굴 실태조사 용역 보고서(1차년; 제주특별자치도 세계유산본부, 2020)
+JJ023	->	extracted_images/JJ023/JJ023_006.jpg	->	(제목 미추출)
+JJ024	->	extracted_images/JJ024/JJ024_001.png	->	지질유산 분포지도(지형도)
+JJ024	->	extracted_images/JJ024/JJ024_002.png	->	사진 및 설명
+JJ024	->	extracted_images/JJ024/JJ024_003.jpg	->	사진 1. 성굴의 입구
+JJ024	->	extracted_images/JJ024/JJ024_004.jpg	->	사진 2. 용암주석 사진 3. 내부통로(동굴 침수)
+JJ024	->	extracted_images/JJ024/JJ024_005.jpg	->	제주특별자치도 비지정 천연동굴 실태조사 용역 보고서(1차년; 제주특별자치도 세계유산본부, 2020)
+JJ025	->	extracted_images/JJ025/JJ025_001.png	->	지질유산 분포지도(지형도)
+JJ025	->	extracted_images/JJ025/JJ025_002.png	->	사진 및 설명
+JJ025	->	extracted_images/JJ025/JJ025_003.jpg	->	사진 1. 생쟁이왓굴의 입구
+JJ025	->	extracted_images/JJ025/JJ025_004.jpg	->	사진 2. 창구조 사진 3. 내부통로
+JJ025	->	extracted_images/JJ025/JJ025_005.jpg	->	제주도 천연동굴 일제조사 보고서(문화재청, 2003)
+JJ026	->	extracted_images/JJ026/JJ026_001.jpg	->	지질유산 분포지도(지형도)
+JJ026	->	extracted_images/JJ026/JJ026_002.jpg	->	사진 및 설명
+JJ026	->	extracted_images/JJ026/JJ026_003.jpg	->	사진 1. 한들굴의 입구 전경
+JJ026	->	extracted_images/JJ026/JJ026_004.jpg	->	사진 2. 동굴 내부에 관찰되는 동굴생성물
+JJ027	->	extracted_images/JJ027/JJ027_001.jpg	->	지질유산 분포지도(지형도)
+JJ027	->	extracted_images/JJ027/JJ027_002.jpg	->	사진 및 설명
+JJ027	->	extracted_images/JJ027/JJ027_003.jpg	->	사진 1. 동굴 입구 전경(드론촬영: 2024.05.08.)
+JJ027	->	extracted_images/JJ027/JJ027_004.jpg	->	사진 2. 동굴 내부에 관찰되는 낙석 구간
+JJ028	->	extracted_images/JJ028/JJ028_001.jpg	->	지질유산 분포지도(지형도)
+JJ028	->	extracted_images/JJ028/JJ028_002.jpg	->	사진 및 설명
+JJ028	->	extracted_images/JJ028/JJ028_003.jpg	->	사진 1. 동굴 입구 전경(드론촬영: 2024.05.08.)
+JJ029	->	extracted_images/JJ029/JJ029_001.jpg	->	지질유산 분포지도(지형도)
+JJ029	->	extracted_images/JJ029/JJ029_002.jpg	->	사진 및 설명
+JJ029	->	extracted_images/JJ029/JJ029_003.jpg	->	사진 1. 동굴 입구 전경(드론촬영: 2024.05.08.)
+JJ029	->	extracted_images/JJ029/JJ029_004.jpg	->	사진 2. 동굴 내 좁은 통로 모습
+JJ030	->	extracted_images/JJ030/JJ030_001.jpg	->	지질유산 분포지도(지형도)
+JJ030	->	extracted_images/JJ030/JJ030_002.jpg	->	사진 및 설명
+JJ030	->	extracted_images/JJ030/JJ030_003.jpg	->	사진 1. 동굴의 입구부(입구모습, 수직구간, 입구 하부의 광장)
+JJ030	->	extracted_images/JJ030/JJ030_004.jpg	->	사진 2. 낙반에 의해 동굴의 천장과 벽면의 형태를 파악하기 힘든 지굴 통로
+JJ030	->	extracted_images/JJ030/JJ030_005.jpg	->	사진 3. 동굴 내부에 관찰되는 동굴생성물
+JJ031	->	extracted_images/JJ031/JJ031_001.jpg	->	지질유산 분포지도(지형도)
+JJ031	->	extracted_images/JJ031/JJ031_002.jpg	->	사진 및 설명
+JJ031	->	extracted_images/JJ031/JJ031_003.jpg	->	사진 1. 동굴의 입구부 전경
+JJ031	->	extracted_images/JJ031/JJ031_004.jpg	->	사진 2. 동굴 내부에 관찰되는 동굴산호와 밧줄구조
+JJ032	->	extracted_images/JJ032/JJ032_001.jpg	->	지질유산 분포지도(지형도)
+JJ032	->	extracted_images/JJ032/JJ032_002.jpg	->	사진 및 설명
+JJ032	->	extracted_images/JJ032/JJ032_003.jpg	->	사진 1. 동굴 입구 전경(드론촬영: 2024.05.08.)
+JJ032	->	extracted_images/JJ032/JJ032_004.jpg	->	사진 2. 동굴 내부에 관찰되는 2차 동굴생성물
+JJ033	->	extracted_images/JJ033/JJ033_001.jpg	->	지질유산 분포지도(지형도)
+JJ033	->	extracted_images/JJ033/JJ033_002.jpg	->	사진 및 설명
+JJ033	->	extracted_images/JJ033/JJ033_003.jpg	->	사진 1. 동굴 입구 전경(드론촬영: 2024.05.09)
+JJ033	->	extracted_images/JJ033/JJ033_004.jpg	->	사진 2. 동굴 내부 모습(공개구간에 설치된 각종 시설물)
+JN001	->	extracted_images/JN001/JN001_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN001	->	extracted_images/JN001/JN001_002.jpg	->	사진 및 설명
+JN001	->	extracted_images/JN001/JN001_003.jpg	->	사진 1. 하상노두 전경 사진 2. 장석반정을 함유하는 반상화강암
+JN001	->	extracted_images/JN001/JN001_004.jpg	->	사진 3. 페그마타이트맥 사진 4. 하상침식에 의해 형성된 포트홀
+JN001	->	extracted_images/JN001/JN001_005.jpg	->	(제목 미추출)
+JN002	->	extracted_images/JN002/JN002_001.jpg	->	사진 및 설명
+JN002	->	extracted_images/JN002/JN002_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN002	->	extracted_images/JN002/JN002_003.jpg	->	사진 1. 섬진강 주변 모래톱과 습지 전경 사진 2. 모래톱
+JN003	->	extracted_images/JN003/JN003_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN003	->	extracted_images/JN003/JN003_002.jpg	->	사진 및 설명
+JN003	->	extracted_images/JN003/JN003_003.jpg	->	사진 1. 하상노두 전경 사진 2. 장석 반정과 석류석 가상
+JN003	->	extracted_images/JN003/JN003_004.jpg	->	사진 3. 잔류체 사진 4. 석영맥
+JN003	->	extracted_images/JN003/JN003_005.jpg	->	(제목 미추출)
+JN004	->	extracted_images/JN004/JN004_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN004	->	extracted_images/JN004/JN004_002.jpg	->	사진 및 설명
+JN004	->	extracted_images/JN004/JN004_003.jpg	->	사진 1. 인공사면노두 전경 사진 2. 하천 절벽노두 전경
+JN004	->	extracted_images/JN004/JN004_004.jpg	->	사진 3. 데사이트질 화산암 사진 4. 유문암질 화산암
+JN004	->	extracted_images/JN004/JN004_005.jpg	->	(제목 미추출)
+JN005	->	extracted_images/JN005/JN005_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN005	->	extracted_images/JN005/JN005_002.jpg	->	사진 및 설명
+JN005	->	extracted_images/JN005/JN005_003.jpg	->	사진 1. 노두 전경 사진 2. 혼성암 노두
+JN005	->	extracted_images/JN005/JN005_004.jpg	->	(제목 미추출)
+JN005	->	extracted_images/JN005/JN005_005.jpg	->	(제목 미추출)
+JN006	->	extracted_images/JN006/JN006_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN006	->	extracted_images/JN006/JN006_002.jpg	->	사진 및 설명
+JN006	->	extracted_images/JN006/JN006_003.jpg	->	사진 1. 도로 양측으로 노출된 노두 사진 2. 노두 단면
+JN006	->	extracted_images/JN006/JN006_004.jpg	->	사진 3. 아평행한 유상대가 발달하는 부분 사진 4. 자가각력암이 발달하는 부분
+JN006	->	extracted_images/JN006/JN006_005.jpg	->	(제목 미추출)
+JN007	->	extracted_images/JN007/JN007_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN007	->	extracted_images/JN007/JN007_002.jpg	->	사진 및 설명
+JN007	->	extracted_images/JN007/JN007_003.jpg	->	사진 1. 지질유산 전경 사진 2. 평행한 층리가 발달하는 노누
+JN007	->	extracted_images/JN007/JN007_004.jpg	->	사진 3. 쪼개짐이 뚜렷한 흑색 셰일층 사진 4. 현장 확인된 식물화석 파편
+JN007	->	extracted_images/JN007/JN007_005.jpg	->	(제목 미추출)
+JN008	->	extracted_images/JN008/JN008_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN008	->	extracted_images/JN008/JN008_002.jpg	->	사진 및 설명
+JN008	->	extracted_images/JN008/JN008_003.jpg	->	사진 1. 평행층리가 뚜렷한 사암 및 이암층 사진 2. 조간대에 걸친 공룡발자국 산출 노두
+JN008	->	extracted_images/JN008/JN008_004.jpg	->	사진 3. 대형 공룡발자국 사진 4. 소형 공룡발자국 보행열
+JN008	->	extracted_images/JN008/JN008_005.jpg	->	(제목 미추출)
+JN009	->	extracted_images/JN009/JN009_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN009	->	extracted_images/JN009/JN009_002.jpg	->	사진 및 설명
+JN009	->	extracted_images/JN009/JN009_003.jpg	->	사진 1. 해안선을 따라 노출된 지질유산 사진 2. 응회각력암의 암상을 보이는 부분
+JN009	->	extracted_images/JN009/JN009_004.jpg	->	사진 3. 부가화산력을 포함하는 응회암 사진 4. 직경 수 cm의 구과상구조
+JN009	->	extracted_images/JN009/JN009_005.jpg	->	(제목 미추출)
+JN010	->	extracted_images/JN010/JN010_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN010	->	extracted_images/JN010/JN010_002.jpg	->	사진 및 설명
+JN010	->	extracted_images/JN010/JN010_003.jpg	->	사진 1. 공룡알둥지화석 발견지 전경 사진 2. 뚜렷한 층리를 보이며 교호하는 역암과 이암층
+JN010	->	extracted_images/JN010/JN010_004.jpg	->	사진 3. 입자지지조직의 역암대 사진 4. 적색의 이암대
+JN010	->	extracted_images/JN010/JN010_005.jpg	->	(제목 미추출)
+JN010	->	extracted_images/JN010/JN010_006.jpg	->	(제목 미추출)
+JN011	->	extracted_images/JN011/JN011_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN011	->	extracted_images/JN011/JN011_002.jpg	->	사진 및 설명
+JN011	->	extracted_images/JN011/JN011_003.jpg	->	사진 1. 압록유원지 전경 사진 2. 캠핑 장소로 개발된 상부 구간
+JN011	->	extracted_images/JN011/JN011_004.jpg	->	사진 3. 충적층이 일부 보존된 하부 구간 사진 4. 충적층을 구성하는 자갈과 모래
+JN011	->	extracted_images/JN011/JN011_005.jpg	->	(제목 미추출)
+JN012	->	extracted_images/JN012/JN012_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN012	->	extracted_images/JN012/JN012_002.jpg	->	사진 및 설명
+JN012	->	extracted_images/JN012/JN012_003.jpg	->	사진 1. 도로 곡면부에 노출된 지질유산 전경과 표면의 타포니 구조
+JN012	->	extracted_images/JN012/JN012_004.jpg	->	사진 3. 층리를 이루며 배열된 역 사진 3. 파편 형태로 나타나는 캘크리트
+JN013	->	extracted_images/JN013/JN013_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN013	->	extracted_images/JN013/JN013_002.jpg	->	사진 및 설명
+JN013	->	extracted_images/JN013/JN013_003.jpg	->	사진 1. 금천천의 섬진강 합류지점 사진 2. 지질유산 노두 전경
+JN013	->	extracted_images/JN013/JN013_004.jpg	->	사진 3. 압쇄구조 확대 사진 사진 4. 압쇄구조 확대 사진
+JN013	->	extracted_images/JN013/JN013_005.jpg	->	(제목 미추출)
+JN014	->	extracted_images/JN014/JN014_001.jpg	->	사진 및 설명 드론촬영 이미지로 표시한 분포지도
+JN014	->	extracted_images/JN014/JN014_002.jpg	->	사진 1. 도로변 및 사업장에 노출된 지질유산 노두 전경
+JN014	->	extracted_images/JN014/JN014_003.jpg	->	사진 2. 낙동층의 전형적인 퇴적상을 보이는 도로절개면 사진 3. 사층리가 발달하는 사암대
+JN014	->	extracted_images/JN014/JN014_004.jpg	->	(제목 미추출)
+JN015	->	extracted_images/JN015/JN015_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN015	->	extracted_images/JN015/JN015_002.jpg	->	사진 및 설명
+JN015	->	extracted_images/JN015/JN015_003.jpg	->	사진 1. 지질유산 전경 사진 2. 검은 빛을 띠는 왕자갈
+JN015	->	extracted_images/JN015/JN015_004.jpg	->	사진 3. 드물게 관찰되는 굵은 모래 사진 4. 해변 북측에 발달하는 화산력응회암
+JN015	->	extracted_images/JN015/JN015_005.jpg	->	(제목 미추출)
+JN016	->	extracted_images/JN016/JN016_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN016	->	extracted_images/JN016/JN016_002.jpg	->	사진 및 설명
+JN016	->	extracted_images/JN016/JN016_003.jpg	->	사진 1. 공원 산책로를 따라 노출된 지질유산 전경 사진 2. 응회암 노두 단면
+JN016	->	extracted_images/JN016/JN016_004.jpg	->	사진 3. 수직하게 발달하는 각진 주상절리 사진 4. 어두운 색의 포획체
+JN016	->	extracted_images/JN016/JN016_005.jpg	->	(제목 미추출)
+JN017	->	extracted_images/JN017/JN017_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN017	->	extracted_images/JN017/JN017_002.jpg	->	사진 및 설명
+JN017	->	extracted_images/JN017/JN017_003.jpg	->	사진 1. 지질유산 전경 사진 2. 두 응회암류의 경계면
+JN017	->	extracted_images/JN017/JN017_004.jpg	->	사진 3. 약한 층상을 보이는 부분 사진 4. 층리가 뚜렷하게 발달하는 부분
+JN018	->	extracted_images/JN018/JN018_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN018	->	extracted_images/JN018/JN018_002.jpg	->	사진 및 설명
+JN018	->	extracted_images/JN018/JN018_003.jpg	->	사진 1. 지질유산 전경(남동단) 사진 2. 지질유산 전경(북서단)
+JN018	->	extracted_images/JN018/JN018_004.jpg	->	사진 3. 역암 및 역질사암층의 층리 사진 4. 역단층이 잘 인지되는 부분
+JN018	->	extracted_images/JN018/JN018_005.jpg	->	(제목 미추출)
+JN019	->	extracted_images/JN019/JN019_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN019	->	extracted_images/JN019/JN019_002.jpg	->	사진 및 설명
+JN019	->	extracted_images/JN019/JN019_003.jpg	->	사진 1. 해빈 전경과 남단의 해안단구 사진 2. 해빈 북단의 해식절벽
+JN019	->	extracted_images/JN019/JN019_004.jpg	->	사진 3. 패각을 다량 함유하는 미고결 모래 사진 4. 해식절벽 인근에 발달하는 응회암
+JN019	->	extracted_images/JN019/JN019_005.jpg	->	(제목 미추출)
+JN020	->	extracted_images/JN020/JN020_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN020	->	extracted_images/JN020/JN020_002.jpg	->	사진 및 설명
+JN020	->	extracted_images/JN020/JN020_003.jpg	->	사진 1. 지질유산 전경(도로 인접부) 사진 2. 지질유산 전경(산정부)
+JN020	->	extracted_images/JN020/JN020_004.jpg	->	사진 3. 응회암 노두 사진 4. 기질부가 완전 용결된 응회암 조직
+JN020	->	extracted_images/JN020/JN020_005.jpg	->	(제목 미추출)
+JN021	->	extracted_images/JN021/JN021_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN021	->	extracted_images/JN021/JN021_002.jpg	->	사진 및 설명
+JN021	->	extracted_images/JN021/JN021_003.jpg	->	사진 1. 지질유산 전경 사진 2. 약한 사층리를 보이는 역질사암
+JN021	->	extracted_images/JN021/JN021_004.jpg	->	사진 3. 풍화로 만들어진 타포니 구조 사진 4. 강한 전단력에 의해 절단된 역들
+JN021	->	extracted_images/JN021/JN021_005.jpg	->	(제목 미추출)
+JN022	->	extracted_images/JN022/JN022_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN022	->	extracted_images/JN022/JN022_002.jpg	->	사진 및 설명
+JN022	->	extracted_images/JN022/JN022_003.jpg	->	사진 1. 지질유산 전경 사진 2. 층상 배열된 구과상구조
+JN022	->	extracted_images/JN022/JN022_004.jpg	->	사진 3. 구형의 구과상구조 사진 4. 거대하게 성장한 구과상구조
+JN022	->	extracted_images/JN022/JN022_005.jpg	->	(제목 미추출)
+JN023	->	extracted_images/JN023/JN023_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN023	->	extracted_images/JN023/JN023_002.jpg	->	사진 및 설명
+JN023	->	extracted_images/JN023/JN023_003.jpg	->	지질유산의 전경 고각의 주상절리
+JN023	->	extracted_images/JN023/JN023_004.jpg	->	(제목 미추출)
+JN023	->	extracted_images/JN023/JN023_005.jpg	->	(제목 미추출)
+JN024	->	extracted_images/JN024/JN024_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN024	->	extracted_images/JN024/JN024_002.jpg	->	사진 및 설명
+JN024	->	extracted_images/JN024/JN024_003.jpg	->	지질유산의 전경 관입한 안산암맥
+JN024	->	extracted_images/JN024/JN024_004.jpg	->	(제목 미추출)
+JN024	->	extracted_images/JN024/JN024_005.jpg	->	(제목 미추출)
+JN025	->	extracted_images/JN025/JN025_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN025	->	extracted_images/JN025/JN025_002.jpg	->	사진 및 설명
+JN025	->	extracted_images/JN025/JN025_003.jpg	->	지질유산의 일부 전경 원마도가 양호한 해안단구 자갈
+JN025	->	extracted_images/JN025/JN025_004.jpg	->	(제목 미추출)
+JN025	->	extracted_images/JN025/JN025_005.jpg	->	(제목 미추출)
+JN026	->	extracted_images/JN026/JN026_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN026	->	extracted_images/JN026/JN026_002.jpg	->	사진 및 설명
+JN026	->	extracted_images/JN026/JN026_003.jpg	->	지질유산의 일부 전경 화강암질 편마암과 고철질 미립상 포유체
+JN026	->	extracted_images/JN026/JN026_004.jpg	->	(제목 미추출)
+JN026	->	extracted_images/JN026/JN026_005.jpg	->	(제목 미추출)
+JN027	->	extracted_images/JN027/JN027_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN027	->	extracted_images/JN027/JN027_002.jpg	->	사진 및 설명
+JN027	->	extracted_images/JN027/JN027_003.jpg	->	지질유산의 일부 전경 백악기 호성저탁암층
+JN027	->	extracted_images/JN027/JN027_004.jpg	->	(제목 미추출)
+JN027	->	extracted_images/JN027/JN027_005.jpg	->	(제목 미추출)
+JN028	->	extracted_images/JN028/JN028_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN028	->	extracted_images/JN028/JN028_002.jpg	->	사진 및 설명
+JN028	->	extracted_images/JN028/JN028_003.jpg	->	지질유산의 일부 전경 촛대 형태의 편암
+JN028	->	extracted_images/JN028/JN028_004.jpg	->	(제목 미추출)
+JN028	->	extracted_images/JN028/JN028_005.jpg	->	(제목 미추출)
+JN029	->	extracted_images/JN029/JN029_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+JN029	->	extracted_images/JN029/JN029_002.jpg	->	사진 및 설명
+JN029	->	extracted_images/JN029/JN029_003.jpg	->	지질유산의 일부 전경 하성퇴적층의 층리
+JN029	->	extracted_images/JN029/JN029_004.jpg	->	(제목 미추출)
+JN029	->	extracted_images/JN029/JN029_005.jpg	->	(제목 미추출)
+US001	->	extracted_images/US001/US001_001.jp2	->	지질문화재 분포지도 구축 기본계획 수립 및 연구(2년차)
+US001	->	extracted_images/US001/US001_002.jp2	->	사진 및 설명
+US002	->	extracted_images/US002/US002_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+US002	->	extracted_images/US002/US002_002.jpg	->	사진 및 설명
+US002	->	extracted_images/US002/US002_003.jpg	->	염기성미립포유암 사진 암맥 사진
+US002	->	extracted_images/US002/US002_004.jpg	->	(제목 미추출)
+US003	->	extracted_images/US003/US003_001.jpg	->	사진 및 설명
+US003	->	extracted_images/US003/US003_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+US003	->	extracted_images/US003/US003_003.jpg	->	사진 1. 양산단층 주변형대의 수 미터 규모 단층핵(훼손전) 사진 2. 양산단층 주변형대의 수 미터 규모 단층핵(훼손전)
+US003	->	extracted_images/US003/US003_004.jpg	->	사진 및 설명
+US003	->	extracted_images/US003/US003_005.jpg	->	사진 3. (위)양산단층 주변형대 위치의 교량건설 현장과 (아래)교량이 건설된 현재 모습
+US004	->	extracted_images/US004/US004_001.jpg	->	사진 및 설명
+US004	->	extracted_images/US004/US004_002.jpg	->	드론촬영 이미지로 표시한 분포지도
+US005	->	extracted_images/US005/US005_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+US005	->	extracted_images/US005/US005_002.jpg	->	사진 및 설명
+US005	->	extracted_images/US005/US005_003.jpg	->	지질유산 산출지 전경
+US005	->	extracted_images/US005/US005_004.jpg	->	공룡발자국 화석 전경 이암 내 원형의 석회암 단괴
+US005	->	extracted_images/US005/US005_005.jpg	->	(제목 미추출)
+US006	->	extracted_images/US006/US006_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+US006	->	extracted_images/US006/US006_002.png	->	사진 및 설명
+US006	->	extracted_images/US006/US006_003.png	->	지질유산 산출지 전경
+US006	->	extracted_images/US006/US006_004.jpg	->	공룡발자국 산출 위치(평면뷰)
+US006	->	extracted_images/US006/US006_005.png	->	(제목 미추출)
+US007	->	extracted_images/US007/US007_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+US008	->	extracted_images/US008/US008_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+US008	->	extracted_images/US008/US008_002.jpg	->	사진 및 설명
+US008	->	extracted_images/US008/US008_003.jpg	->	지질유산 산출지 전경
+US008	->	extracted_images/US008/US008_004.jpg	->	(제목 미추출)
+US008	->	extracted_images/US008/US008_005.jpg	->	(제목 미추출)
+US008	->	extracted_images/US008/US008_006.jpg	->	(제목 미추출)
+US009	->	extracted_images/US009/US009_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+US009	->	extracted_images/US009/US009_002.jpg	->	사진 및 설명
+US009	->	extracted_images/US009/US009_003.jpg	->	지질유산 산출지 전경
+US009	->	extracted_images/US009/US009_004.jpg	->	사암 내 수평층리와 사층리 공룡발자국 화석 전경
+US009	->	extracted_images/US009/US009_005.jpg	->	(제목 미추출)
+US009	->	extracted_images/US009/US009_006.jpg	->	(제목 미추출)
+US010	->	extracted_images/US010/US010_001.jpg	->	드론촬영 이미지로 표시한 분포지도
+US010	->	extracted_images/US010/US010_002.jpg	->	사진 및 설명
+US010	->	extracted_images/US010/US010_003.jpg	->	(제목 미추출)
+US010	->	extracted_images/US010/US010_004.jpg	->	(제목 미추출)

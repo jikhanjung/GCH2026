@@ -1,0 +1,53 @@
+{
+  "survey_no": "CB006",
+  "survey_year": 2022,
+  "gch_nm": "단양 도담리 둠벙개동굴",
+  "survey_nm": "김련, 이종희, 박상욱",
+  "psitn": "사단법인 한국동굴연구소",
+  "cttpc": null,
+  "area_nm": "충북",
+  "geolgc_map_nm": null,
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "La002",
+      "des": "지형(동굴_용식(석회암)작용)"
+    }
+  ],
+  "geolgc_age": "고생대 오르도비스기",
+  "rrstv_rck": "조선누층군 영월층군 문곡층",
+  "address": "충청북도 단양군 단양읍 도담리",
+  "lat_dms": "37°00′12.3″N",
+  "lon_dms": "128°21′41.0″E",
+  "cclt_scl": "매장문화재(동굴)유존지역: 2,476㎡, 참관조사지역: 9,240㎡ (총면적: 11,716㎡)",
+  "rkfr_des": "단양취수장 주변에 위치\n동굴 내부 트렌치 흔적 관찰",
+  "cave": {
+    "ent_size": "12.0m × 11.0m(타원형)",
+    "length": "약 65m",
+    "type": "수평",
+    "ent_dir": "남서(S60°W)",
+    "direction": "남서(SW)와 남동(SE)",
+    "ungrd_water": "무",
+    "ent_water": "무",
+    "access": "단양군 단양읍 도담리에 위치한 단양취수장(한국수자원공사 단양수도센터) 뒤편 절벽 하부에 위치",
+    "unkn_topo_des": "용식공",
+    "unkn_topo_rank": "라",
+    "prodt_des": "유석, 동굴산호",
+    "prodt_rank": "라",
+    "bio_des": "동굴통거미 등 21종",
+    "bio_rank": "다",
+    "prs_protect": "무",
+    "protect": "보호시설설치여부: 설치 필요",
+    "prsv_rank": "양호",
+    "eval_des": "동굴동물 평가 등급을 반영하여 '다' 등급 부여\n·동굴동물 분야에 맞는 보호조치 방안 마련\n·동굴전문가의 자문을 통해서 동굴특성에 맞는 보호시설물의 설치가 필요함.",
+    "eval_rank": "다(동굴동물분야)"
+  },
+  "references": [
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "충청북도 천연동굴 일제조사 보고서 III(문화재청, 2008)",
+      "pge": null
+    }
+  ]
+}

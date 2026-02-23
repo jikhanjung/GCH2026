@@ -1,0 +1,111 @@
+{
+  "survey_no": "GG001",
+  "survey_year": 2024,
+  "gch_nm": "가평 위곡리 각섬석 페리도타이트",
+  "survey_nm": "고경태, 송교영",
+  "psitn": "한국지질자원연구원",
+  "cttpc": null,
+  "area_nm": "경기권",
+  "geolgc_map_nm": "가평, 용두리",
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "Ga002",
+      "des": "지질(암석_지구내부구성암석)"
+    }
+  ],
+  "geolgc_age": "신원생대",
+  "rrstv_rck": "각섬석 페리도타이트",
+  "address": "경기도 가평군 설악면 위곡리 504-16",
+  "lat_dms": "37°40′10.98″N",
+  "lon_dms": "127°31′10.31″E",
+  "cclt_scl": "정밀발굴조사지역: 39,458㎡, 표본조사지역: 194,254㎡ (총면적: 233,712㎡)",
+  "rkfr_des": "지질유산은 경기도 가평군 설악면 위곡리 504-16 두메랑 식당 뒤 절개지 노두에 위치\n지질유산은 선캄브리이기 변성암류인 가평층에 해당되며, 최근 연구를 통해 신원생대 암석임이 밝혀짐\n한반도에서는 기존 보고된 맨틀기원 암석들은 대부분 수 cm에서 수십 cm 내외로 현무암 내부에 맨틀포획암(mantle xenolith)형태로 보고된 것이 전부지만, 지질유산이 위치하는 위곡리 일대에서는 맨틀 상부에 존재하는 맨틀암석인 각섬석 페리도타이트(peridotite)가 커다란 암석 노두로 지표에 노출되어 있음\n한반도 지구조운동 형성과 진화 연구에 있어 중요한 학술적 가치를 가짐",
+  "cave": null,
+  "references": [
+    {
+      "group_gbn": "1",
+      "ordr": "1",
+      "material_nm": "Oh, C.W., Lee, J.Y., Yengkhom, K.S., Lee, B.C., Ryu, H.I., 2018. Neoproterozoic igneous activity and Permo-Triassic metamorphism inthe Gapyeong area within the Gyeonggi Massif, South Korea, and theirimplication for the tectonics of northeastern Asia. Lithos 322, 1-19.",
+      "pge": null
+    },
+    {
+      "group_gbn": "1",
+      "ordr": "2",
+      "material_nm": "Lee, J., Jung, H., 2023, Lattice-preferred orientation (LPO) of olivine and amphibole in amphibole peridotites and neighboring hornblendites from Gapyeong, South Korea and implications for seismic anisotropy. Journal of Geodynamics, 157, p.101977.",
+      "pge": null
+    },
+    {
+      "group_gbn": "2",
+      "ordr": "1",
+      "material_nm": "김옥준, 김서운, 유병화, 박병권, 1974, 1:50,000 가평 지질도폭 설명서. 국립지질광물연구소. 26p.",
+      "pge": null
+    },
+    {
+      "group_gbn": "2",
+      "ordr": "2",
+      "material_nm": "이상만, 김봉균, 소칠섭, 신명식, 1974, 1:50,000 용두리 지질도폭 설명서. 국립지질광물연구소. 16p.",
+      "pge": null
+    },
+    {
+      "group_gbn": "2",
+      "ordr": "3",
+      "material_nm": "기원서 외, 2011, 국토 중서부 천부 지각의 지구조 진화 연구. 한국지질자원연구원. 255p.",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "한국의 지질유산 정보구축 및 관리방안(이수재, 2008)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "2",
+      "material_nm": "전국 지질유산 분포 및 현황조사(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "3",
+      "material_nm": "한국의 지질유산(국가지질공원사무국, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "4",
+      "material_nm": "전국자연환경조사보고서(환경부)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "5",
+      "material_nm": "한국의 지질노두 150선(한국지질자원연구원, 2004)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "6",
+      "material_nm": "한국의 지질노두 160선(한국지질자원연구원, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "7",
+      "material_nm": "한국의 지질다양성(문화재청, 2011, 2012, 2013)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "8",
+      "material_nm": "지형·지질 문화재 정밀조사 보고서(문화재청, 2008, 2009, 2010)",
+      "pge": null
+    },
+    {
+      "group_gbn": "기존자료",
+      "ordr": "9",
+      "material_nm": "지질·광물 문화재 정밀조사 보고서(문화재청, 2002, 2005, 2006, 2007)",
+      "pge": null
+    }
+  ]
+}

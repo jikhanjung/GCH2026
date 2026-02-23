@@ -1,0 +1,53 @@
+{
+  "survey_no": "JJ027",
+  "survey_year": 2024,
+  "gch_nm": "제주 명월리 자구내거리굴",
+  "survey_nm": "김련, 이종희, 최문복, 유지훈, 홍정표",
+  "psitn": "사단법인 한국동굴연구소",
+  "cttpc": null,
+  "area_nm": "제주",
+  "geolgc_map_nm": null,
+  "strk_sdp": null,
+  "types": [
+    {
+      "code": "La001",
+      "des": "지형(동굴_화산활동작용)"
+    }
+  ],
+  "geolgc_age": "신생대 제4기",
+  "rrstv_rck": "광해악현무암",
+  "address": "제주특별자치도 제주시 한림읍 명월리",
+  "lat_dms": "33°22′46.8″N",
+  "lon_dms": "126°15′52.5″E",
+  "cclt_scl": "매장유산(동굴)유존지역: 421.91㎡, 참관조사지역: 5,018.85㎡ (총면적: 5,440.76㎡)",
+  "rkfr_des": "경작지(과수원) 하부에 동굴 위치\n동굴 상부 지표로 대형의 농기계 출입",
+  "cave": {
+    "ent_size": "0.6m × 0.5m(마름모형)",
+    "length": "약 55m",
+    "type": "수평",
+    "ent_dir": "수직",
+    "direction": "남동(SE)",
+    "ungrd_water": "무",
+    "ent_water": "무",
+    "access": "한림읍 명월리 1579-1과 1570-1(경작지: 과수원)의 경계지점에 위치",
+    "unkn_topo_des": null,
+    "unkn_topo_rank": null,
+    "prodt_des": "용암종유",
+    "prodt_rank": "마",
+    "bio_des": "고마로브집게벌레 등 12종",
+    "bio_rank": "라",
+    "prs_protect": "무",
+    "protect": "미설치",
+    "prsv_rank": "보통",
+    "eval_des": "동굴 내부의 쓰레기 제거를 위한 내부환경정비가 필요\n대형의 농기계가 동굴 상부를 수시로 지나다니고 있기 때문에 관련 전문가의 자문을 통한 조치 필요\n·안정성 검토 후, 동굴을 보존하는 방향과 동굴기초조사 후, 매몰시켜 발생될 수 있는 안전사고 대비",
+    "eval_rank": "라"
+  },
+  "references": [
+    {
+      "group_gbn": "기존자료",
+      "ordr": "1",
+      "material_nm": "제주특별자치도 비지정 천연동굴 실태조사 용역 보고서(1차년, 제주특별자치도 세계유산본부, 2020)",
+      "pge": null
+    }
+  ]
+}

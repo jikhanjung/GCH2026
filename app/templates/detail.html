@@ -1,0 +1,194 @@
+{% extends "base.html" %}
+
+{% block title %}{{ heritage.GCH_NM if heritage else '없음' }} — 지질유산 DB{% endblock %}
+
+{% block head_extra %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+{% endblock %}
+
+{% block content %}
+{% if not heritage %}
+<div class="alert alert-warning">해당 조사번호의 데이터를 찾을 수 없습니다.</div>
+<a href="/" class="btn btn-secondary">목록으로</a>
+{% else %}
+
+<nav aria-label="breadcrumb" class="mb-3">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="/">목록</a></li>
+        <li class="breadcrumb-item active">{{ heritage.SURVEY_NO }}</li>
+    </ol>
+</nav>
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h2 class="mb-0">{{ heritage.GCH_NM or heritage.SURVEY_NO }}</h2>
+    <div class="d-flex gap-2">
+        <a href="/heritage/{{ heritage.SURVEY_NO }}/edit" class="btn btn-warning">수정</a>
+        <form method="post" action="/heritage/{{ heritage.SURVEY_NO }}/delete"
+              onsubmit="return confirm('정말 삭제하시겠습니까?')">
+            <button type="submit" class="btn btn-danger">삭제</button>
+        </form>
+    </div>
+</div>
+
+<!-- 기본 정보 -->
+<div class="card mb-4">
+    <div class="card-header"><strong>기본 정보</strong></div>
+    <div class="card-body">
+        <table class="table table-sm mb-0">
+            <tbody>
+                <tr><th style="width:180px">조사번호</th><td>{{ heritage.SURVEY_NO }}</td></tr>
+                <tr><th>유산명</th><td>{{ heritage.GCH_NM or '-' }}</td></tr>
+                <tr><th>조사자</th><td>{{ heritage.SURVEY_NM or '-' }}</td></tr>
+                <tr><th>소속</th><td>{{ heritage.PSITN or '-' }}</td></tr>
+                <tr><th>연락처</th><td>{{ heritage.CTTPC or '-' }}</td></tr>
+                <tr><th>조사권역</th><td>{{ heritage.AREA_NM or '-' }}</td></tr>
+                <tr><th>지질도폭명</th><td>{{ heritage.GEOLGC_MAP_NM or '-' }}</td></tr>
+                <tr><th>주향/경사</th><td>{{ heritage.STRK_SDP or '-' }}</td></tr>
+                <tr><th>지질시대</th><td>{{ heritage.GEOLGC_AGE or '-' }}</td></tr>
+                <tr><th>대표암석</th><td>{{ heritage.RRSTV_RCK or '-' }}</td></tr>
+                <tr><th>주소</th><td>{{ heritage.ADDRESS or '-' }}</td></tr>
+                <tr><th>위도/경도</th><td>{{ heritage.LAT or '-' }} / {{ heritage.LON or '-' }}</td></tr>
+                <tr><th>규모</th><td>{{ heritage.CCLT_SCL or '-' }}</td></tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<!-- 지도 -->
+{% if heritage.LAT and heritage.LON %}
+<div class="card mb-4">
+    <div class="card-header"><strong>위치</strong></div>
+    <div class="card-body p-0">
+        <div id="map" style="height: 400px;"></div>
+    </div>
+</div>
+{% endif %}
+
+<!-- 분류 -->
+<div class="card mb-4">
+    <div class="card-header"><strong>분류</strong></div>
+    <div class="card-body">
+        <table class="table table-sm mb-0">
+            <tbody>
+                <tr>
+                    <th style="width:180px">유형 1</th>
+                    <td>
+                        {% if heritage.TY1_CD %}
+                        <span class="badge bg-primary">{{ heritage.ty1_top }}</span>
+                        {{ heritage.ty1_nm }} ({{ heritage.TY1_CD }})
+                        {% if heritage.TY1_DES %}<br><small class="text-muted">{{ heritage.TY1_DES }}</small>{% endif %}
+                        {% else %}-{% endif %}
+                    </td>
+                </tr>
+                <tr>
+                    <th>유형 2</th>
+                    <td>
+                        {% if heritage.TY2_CD %}
+                        <span class="badge bg-primary">{{ heritage.ty2_top }}</span>
+                        {{ heritage.ty2_nm }} ({{ heritage.TY2_CD }})
+                        {% if heritage.TY2_DES %}<br><small class="text-muted">{{ heritage.TY2_DES }}</small>{% endif %}
+                        {% else %}-{% endif %}
+                    </td>
+                </tr>
+                <tr>
+                    <th>유형 3</th>
+                    <td>
+                        {% if heritage.TY3_CD %}
+                        <span class="badge bg-primary">{{ heritage.ty3_top }}</span>
+                        {{ heritage.ty3_nm }} ({{ heritage.TY3_CD }})
+                        {% if heritage.TY3_DES %}<br><small class="text-muted">{{ heritage.TY3_DES }}</small>{% endif %}
+                        {% else %}-{% endif %}
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<!-- 암석기재 -->
+{% if heritage.RKFR_DES %}
+<div class="card mb-4">
+    <div class="card-header"><strong>암석기재</strong></div>
+    <div class="card-body">
+        <p class="mb-0" style="white-space: pre-wrap;">{{ heritage.RKFR_DES }}</p>
+    </div>
+</div>
+{% endif %}
+
+<!-- 동굴 정보 -->
+{% if cave %}
+<div class="card mb-4">
+    <div class="card-header"><strong>동굴 정보</strong></div>
+    <div class="card-body">
+        <table class="table table-sm mb-0">
+            <tbody>
+                <tr><th style="width:180px">입구 크기</th><td>{{ cave.ENT_SIZE or '-' }}</td></tr>
+                <tr><th>동굴 길이</th><td>{{ cave.LENGTH or '-' }}</td></tr>
+                <tr><th>동굴 유형</th><td>{{ cave.TYPE or '-' }}</td></tr>
+                <tr><th>입구 방향</th><td>{{ cave.ENT_DIR or '-' }}</td></tr>
+                <tr><th>연장 방향</th><td>{{ cave.DIRECTION or '-' }}</td></tr>
+                <tr><th>지하수 유무</th><td>{{ cave.UNGRD_WATER or '-' }}</td></tr>
+                <tr><th>입구 용수</th><td>{{ cave.ENT_WATER or '-' }}</td></tr>
+                <tr><th>접근 방법</th><td>{{ cave.ACCESS or '-' }}</td></tr>
+                <tr><th>미지형 기재</th><td>{{ cave.UNKN_TOPO_DES or '-' }}</td></tr>
+                <tr><th>미지형 등급</th><td>{{ cave.UNKN_TOPO_RANK or '-' }}</td></tr>
+                <tr><th>생성물 기재</th><td>{{ cave.PRODT_DES or '-' }}</td></tr>
+                <tr><th>생성물 등급</th><td>{{ cave.PRODT_RANK or '-' }}</td></tr>
+                <tr><th>생물상 기재</th><td>{{ cave.BIO_DES or '-' }}</td></tr>
+                <tr><th>생물상 등급</th><td>{{ cave.BIO_RANK or '-' }}</td></tr>
+                <tr><th>현재 보호시설</th><td>{{ cave.PRS_PROTECT or '-' }}</td></tr>
+                <tr><th>보호시설</th><td>{{ cave.PROTECT or '-' }}</td></tr>
+                <tr><th>보존 등급</th><td>{{ cave.PRSV_RANK or '-' }}</td></tr>
+                <tr><th>종합평가 기재</th><td>{{ cave.EVAL_DES or '-' }}</td></tr>
+                <tr><th>종합평가 등급</th><td>{{ cave.EVAL_RANK or '-' }}</td></tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endif %}
+
+<!-- 참고문헌 -->
+{% if references %}
+<div class="card mb-4">
+    <div class="card-header"><strong>참고문헌</strong></div>
+    <div class="card-body">
+        <table class="table table-sm mb-0">
+            <thead>
+                <tr><th>구분</th><th>순서</th><th>자료명</th><th>페이지</th></tr>
+            </thead>
+            <tbody>
+                {% for ref in references %}
+                <tr>
+                    <td>{{ ref.GROUP_GBN or '-' }}</td>
+                    <td>{{ ref.ORDR or '-' }}</td>
+                    <td>{{ ref.MATERIAL_NM or '-' }}</td>
+                    <td>{{ ref.PGE or '-' }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endif %}
+
+<a href="/" class="btn btn-secondary">목록으로</a>
+
+{% endif %}
+{% endblock %}
+
+{% block scripts %}
+{% if heritage and heritage.LAT and heritage.LON %}
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+    var map = L.map('map').setView([{{ heritage.LAT }}, {{ heritage.LON }}], 14);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+    L.marker([{{ heritage.LAT }}, {{ heritage.LON }}])
+        .addTo(map)
+        .bindPopup('{{ heritage.GCH_NM or heritage.SURVEY_NO }}')
+        .openPopup();
+</script>
+{% endif %}
+{% endblock %}
